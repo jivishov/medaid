@@ -7,7 +7,6 @@ uuid
 typing
 datetime
 asyncio
-re
 random
 json
 psycopg2
