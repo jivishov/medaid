@@ -3,7 +3,6 @@ openai
 anthropic
 requests
 reportlab
-PIL
 base64
 io
 os
