@@ -3,8 +3,6 @@ openai
 anthropic
 requests
 reportlab
-io
-os
 uuid
 typing
 datetime
