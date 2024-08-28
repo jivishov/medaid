@@ -1,0 +1,50 @@
+.main-title {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.doctor-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    transition: all 0.3s ease;
+}
+
+.doctor-card:hover {
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.doctor-card h3 {
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+}
+
+.doctor-card p {
+    color: #7f8c8d;
+}
+
+.doctor-name {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-bottom: 0;
+}
+
+.doctor-specialty {
+    font-size: 1.5rem;
+    color: #7f8c8d;
+    margin-top: 0;
+}
+
+.stExpander {
+    border: none;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.stExpander > div > div > div > div {
+    background-color: #f8f9fa;
+}
