@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Aide - Dentist Search</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f8f9fa;
+        }
+        .navbar {
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0,0,0,.1);
+        }
+        .navbar-brand {
+            font-weight: 700;
+            color: #007bff;
+        }
+        .nav-link {
+            color: #495057;
+        }
+        .search-bar {
+            max-width: 600px;
+            margin: 2rem auto;
+        }
+        .card {
+            border: none;
+            box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+            margin-bottom: 1.5rem;
+        }
+        .card-body {
+            padding: 1.5rem;
+        }
+        .doctor-img {
+            width: 100px;
+            height: 100px;
+            object-fit: cover;
+            border-radius: 50%;
+        }
+        .doctor-name {
+            font-weight: 500;
+            margin-bottom: 0.25rem;
+        }
+        .doctor-specialty {
+            color: #007bff;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        .doctor-location, .doctor-fee {
+            font-size: 0.9rem;
+            color: #6c757d;
+            margin-bottom: 0.25rem;
+        }
+        .btn-book {
+            background-color: #28a745;
+            border-color: #28a745;
+        }
+        .btn-book:hover {
+            background-color: #218838;
+            border-color: #1e7e34;
+        }
+        .footer {
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+        .star-rating {
+            color: #ffc107;
+        }
+        .rating-count {
+            font-size: 0.8rem;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <svg width="30" height="30" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="50" cy="50" r="50" fill="#007bff"/>
+                    <circle cx="50" cy="50" r="40" fill="#ffffff"/>
+                    <circle cx="50" cy="50" r="30" fill="#007bff"/>
+                </svg>
+                Healthcare Aide
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Purchase Medicines</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Lab Tests</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fas fa-bell"></i></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fas fa-user-circle"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="search-bar">
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="Search Dentists" aria-label="Search Dentists">
+                <button class="btn btn-outline-secondary" type="button"><i class="fas fa-search"></i></button>
+                <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">Bengaluru</button>
+                <ul class="dropdown-menu dropdown-menu-end">
+                    <li><a class="dropdown-item" href="#">Bengaluru</a></li>
+                    <li><a class="dropdown-item" href="#">Mumbai</a></li>
+                    <li><a class="dropdown-item" href="#">Delhi</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <h2 class="mb-4">Dentist available in Bengaluru :-</h2>
+
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="https://images.unsplash.com/photo-1537368910025-700350fe46c7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Dr. Leonardo Di Caprio" class="doctor-img">
+                    </div>
+                    <div class="col-md-7">
+                        <h4 class="doctor-name">Dr. Leonardo Di Caprio</h4>
+                        <p class="doctor-specialty">Dentist</p>
+                        <p class="doctor-location">Kormangala, Bengaluru</p>
+                        <p class="doctor-fee">₹ 350 Consultation fee</p>
+                        <div class="star-rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                            <span class="rating-count">751 ratings</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-end">
+                        <p class="text-primary mb-2"><i class="far fa-calendar-alt"></i> Available on Mon, 30 Jan</p>
+                        <button class="btn btn-success btn-book">Book Clinic Visit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Dr. Kevin Hart" class="doctor-img">
+                    </div>
+                    <div class="col-md-7">
+                        <h4 class="doctor-name">Dr. Kevin Hart</h4>
+                        <p class="doctor-specialty">Dentist</p>
+                        <p class="doctor-location">Whitefield, Bengaluru</p>
+                        <p class="doctor-fee">₹ 470 Consultation fee</p>
+                        <div class="star-rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="far fa-star"></i>
+                            <span class="rating-count">339 ratings</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-end">
+                        <p class="text-primary mb-2"><i class="far fa-calendar-alt"></i> Available on Mon, 30 Jan</p>
+                        <button class="btn btn-success btn-book">Book Clinic Visit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-2">
+                        <img src="https://images.unsplash.com/photo-1559839734-2b71ea197ec2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80" alt="Dr. Rashmi Shetty" class="doctor-img">
+                    </div>
+                    <div class="col-md-7">
+                        <h4 class="doctor-name">Dr. Rashmi Shetty</h4>
+                        <p class="doctor-specialty">Dentist</p>
+                        <p class="doctor-location">Domlur, Bengaluru</p>
+                        <p class="doctor-fee">₹ 400 Consultation fee</p>
+                        <div class="star-rating">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                            <span class="rating-count">562 ratings</span>
+                        </div>
+                    </div>
+                    <div class="col-md-3 text-end">
+                        <p class="text-primary mb-2"><i class="far fa-calendar-alt"></i> Available on Mon, 30 Jan</p>
+                        <button class="btn btn-success btn-book">Book Clinic Visit</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer text-center">
+        <div class="container">
+            <svg width="30" height="30" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" class="mb-2">
+                <circle cx="50" cy="50" r="50" fill="#ffffff"/>
+                <circle cx="50" cy="50" r="40" fill="#007bff"/>
+                <circle cx="50" cy="50" r="30" fill="#ffffff"/>
+            </svg>
+            <p class="mb-0">Healthcare Aide</p>
+            <p class="mb-0">Copyright © 2023, Healthcare Aide. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
