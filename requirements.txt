@@ -7,5 +7,4 @@ uuid
 typing
 datetime
 asyncio
-json
 psycopg2
