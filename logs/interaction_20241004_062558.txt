@@ -1,0 +1,153 @@
+User Input:
+qara ciyərim tərəfində sancı və ağrılarım var.
+
+LLM Generated Search Query:
+Açar sözlər və əsas anlayışlar:
+- Qara ciyər
+- Sancı
+- Ağrı
+
+Təklif olunan axtarış sorğusu:
+
+Qara ciyər ağrısı və sancısı ilə əlaqəli cərrahi prosedurlar
+
+Bu sorğu qara ciyər nahiyəsində ağrı və sancı şikayətləri olan xəstələr üçün uyğun ola biləcək cərrahi müdaxilələri və prosedurları tapmağa kömək edə bilər. Qeyd edək ki, dəqiq diaqnoz və müalicə üçün həkimə müraciət etmək vacibdir.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.3
+
+**Kod**: 0.42
+
+**Ad**: Qida borusunun açıq biopsiyası
+
+**Uyğunluq**: 55.58%
+
+**Əsaslandırma**: Qida borusunun açıq biopsiyası prosedurunun məqsədi qida borusundan toxuma nümunəsi götürmək və bu nümunə ilə xərçəng və digər xəstəlikləri diaqnoz etməkdir. Bu prosedur xüsusilə qida borusu problemlərini araşdırmaq üçün istifadə olunsa da, verilən axtarış sorğusu əsasən qara ciyər ağrısı və sancısı ilə bağlıdır. Buna görə də, qida borusu biopsiyası bu sorğu ilə birbaşa əlaqəli deyil. Qara ciyər nahiyəsində ağrı olan xəstələr üçün digər cərrahi prosedurlar, məsələn, qara ciyər biopsiyası və ya digər müayinələr daha uyğun ola bilər. Hər halda, dəqiq diaqnoz üçün bir həkimlə məsləhətləşmək vacibdir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.886
+
+**Kod**: 62.3
+
+**Ad**: Birtərəfli orxiektomiya
+
+**Uyğunluq**: 55.14%
+
+**Əsaslandırma**: Birtərəfli orxiektomiya, yəni bir xayanın cərrahi yolla çıxarılması, əsasən xaya xərçəngi və ya digər ciddi xaya xəstəlikləri səbəbilə həyata keçirilir. Bu prosedur xaya xəstəliklərinin yayılmasının qarşısını almaq və xəstənin sağlamlığını qorumaq üçün edilir. Sizin verdiyiniz axtarış sorğusu isə qara ciyər ağrısı və sancısı ilə bağlıdır və bu prosedurla əlaqəsi yoxdur. Yəni, qara ciyər ilə bağlı sancı və ağrıların araşdırılması və müalicəsi üçün fərqli cərrahi və ya tibbi üsullar ola bilər və bu hallarda mütləq həkimə müraciət edilməlidir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.956
+
+**Kod**: 69.3
+
+**Ad**: Uşaqlığın paraservikal denervasiyası (Laparoskopik uterosakral denervasiya)
+
+**Uyğunluq**: 54.74%
+
+**Əsaslandırma**: Uşaqlığın paraservikal denervasiyası, yəni uşaqlıq ətrafındakı sinirlərin laparoskopik üsulla kəsilməsi, xroniki çanaq ağrısını azaltmaq üçün seçilir. Bu cərrahi prosedur, çanaq nahiyəsindəki ağrıların səbəbindən biri olan sinir yollarını bloklayaraq ağrının hiss edilməməsini təmin edir. Lakin, bu prosedurun qara ciyər ağrısı və sancısı ilə birbaşa əlaqəsi yoxdur. Qara ciyər ağrısı və sancıları üçün düzgün prosedur və müalicə tapmaq üçün həkimlə məsləhətləşmək vacibdir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.1155
+
+**Kod**: 80.91
+
+**Ad**: Oynağın digər kəsiklə çıxarılması, çiyin
+
+**Uyğunluq**: 54.45%
+
+**Əsaslandırma**: Çiyin oynağının çıxarılması proseduru çiyin bölgəsindəki şikayətləri aradan qaldırmaq üçün həyata keçirilir. Bu, çiyin oynağında ağrı, hərəkət məhdudiyyəti və funksional pozğunluqlar kimi problemlər yaşayan insanlara kömək edə bilər. Çiyin oynağında çıxarılma əməliyyatı, digər müalicələr və dərmanlarla ağrı və problemlər aradan qaldırılmadıqda, çiyin oynağının normal fəaliyyətini bərpa etmək üçün son çarə olaraq edilə bilər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.885
+
+**Kod**: 62.12
+
+**Ad**: Xayanın açıq biopsiyası
+
+**Uyğunluq**: 54.08%
+
+**Əsaslandırma**: Xayanın açıq biopsiyası adlanan prosedur, xayadan bir toxuma nümunəsini cərrahi yolla götürmək üçün istifadə olunur. Bu prosedur əsasən, xayalardakı problemlərin diaqnozunu dəqiqləşdirmək üçün həyata keçirilir. Misal üçün, əgər bir kişidə xaya böyüməsi və ya qeyri-adi bir kütlə varsa, bu üsuldan istifadə olunaraq həmin toxuma nümunəsi laboratoriyada analiz olunur. Bu, xərçəng və ya digər xəstəliklərin olub-olmadığını müəyyənləşdirməkdə köməkçi olur. Qara ciyər və ya ağrı ilə bağlı deyil, xayaların tibbi diaqnostikası üçün tətbiq olunur.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.720
+
+**Kod**: 50.61
+
+**Ad**: Qaraciyər cırılmasının bərpası
+
+**Uyğunluq**: 75.80%
+
+**Əsaslandırma**: Qaraciyər cırılmasının bərpası adlı əməliyyat, qaraciyərdə yaranmış zədələri, cırılmaları və ya yaraları təmir etmək üçün həyata keçirilir. Bu cür zədələnmələr tez-tez travma, müalicə prosedurları və ya müəyyən xəstəliklərdən yaranır. Təklif olunan axtarış sorğusu isə qaraciyərdə sancı və ya ağrı halları olan şəxslərin qarşılaşdığı problemləri həll edə biləcək cərrahi prosedurların tapılmasına kömək edir. Bu əməliyyat, qaraciyər zədələnmələrinin səbəbi olan ağrı və sancı hallarını aradan qaldırmaq üçün uyğundur. Dəqiq diaqnostika və effektiv müalicə üsulu təyini üçün mütləq həkim məsləhəti almaq lazımdır.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.142
+
+**Kod**: 8.7
+
+**Ad**: Hepatotomiya (Qaraciyər absesinin kəsilməsi. Qaraciyərdən öd daşlarının çıxarılması. Stromyer-Little əməliyyatı)
+
+**Uyğunluq**: 73.55%
+
+**Əsaslandırma**: Hepatotomiya, qaraciyərdə olan problemləri həll etmək üçün seçilən bir cərrahi prosedurdur. Bu əməliyyat qaraciyərdə kəsik aparılaraq problemlərin həllini nəzərdə tutur. Məsələn, qaraciyərdə abses (infeksiya səbəbindən irin yığılması) əmələ gələ bilər və bu absesi boşaltmaq vacibdir. Eyni zamanda, qaraciyərdə öd daşları ola bilər və onların çıxarılması lazımdır. Prosedur həmçinin Stromyer-Little əməliyyatı kimi digər qaraciyər problemlərinin həllində istifadə oluna bilər. Axtarış sorğusu isə qaraciyər nahiyəsində sancı və ağrılardan əziyyət çəkən şəxslərə yardım edə biləcək cərrahi müdaxilələri tapmaq üçün yönəldilib. Həmişə dəqiq diaqnoz və müalicə üçün həkimə müraciət etmək vacibdir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.717
+
+**Kod**: 50.22
+
+**Ad**: Hissəvi hepatektomiya (Pazvari rezeksiya)
+
+**Uyğunluq**: 72.61%
+
+**Əsaslandırma**: Hissəvi hepatektomiya (Pazvari rezeksiya) qaraciyərin zədələnmiş və ya xəstə hissəsini çıxarmaq üçün seçilib. Bu əməliyyat, qaraciyərdəki ağrı və sancılara səbəb ola bilən şişlər, metastazlar və ya digər lokal xəstəlikləri müalicə etmək məqsədilə aparılır. Qaraciyərin bəzi xəstəlikləri zamanı, zədələnmiş sahənin cərrahi yolla çıxarılması, digər sağlam toxumaların funksiyasını və ümumi sağlamlığı qorumaq üçün zəruri ola bilər. Həkimlər, şiş və ya metastaz kimi qaraciyər problemləri ilə qarşılaşan xəstələrdə bu əməliyyatı məsləhət görə bilərlər.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.719
+
+**Kod**: 50.3
+
+**Ad**: Qaraciyərin lobektomiyası
+
+**Uyğunluq**: 72.20%
+
+**Əsaslandırma**: Qaraciyərin lobektomiyası, qaraciyərin bir və ya bir neçə payının çıxarılması əməliyyatıdır. Bu prosedur, adətən, qaraciyərdə böyük şişlər, metastazlar (yəni, qaraciyərə yayılmış xərçəng) və ya digər geniş yayılmış qaraciyər xəstəliklərini müalicə etmək üçün seçilir. Əgər bir insan qaraciyər sancısı və ağrısından şikayət edirsə, bu o deməkdir ki, qaraciyərində ciddi bir problem ola bilər və bəzən belə əməliyyatlara ehtiyac ola bilər. Əlbəttə ki, bu cür əməliyyatın lazım olub-olmadığını təyin etmək üçün mütləq həkimlə məsləhətləşmək vacibdir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.716
+
+**Kod**: 50.21
+
+**Ad**: Qaraciyər zədələnməsinin marsupializasiyası
+
+**Uyğunluq**: 71.62%
+
+**Əsaslandırma**: Bu prosedur, qaraciyərdə kista və ya abses kimi problemlər olduqda seçilir. Qaraciyər ağrısı və sancısı bu cür problemlərin əlaməti ola bilər. Marsupializasiya əməliyyatı, zədələnmiş bölgədəki kista və ya absesi tam çıxarmaq riskli və ya mümkün olmadıqda istifadə olunur. Həkim zədələnmiş nahiyəni açıb qarın divarına tikir ki, içindəkilər sərbəst axıb çıxa bilsin. Bu da ağrını və sancını azaltmağa kömək edir.
+
+----------------------------------------------------------------
