@@ -1,0 +1,154 @@
+User Input:
+öd kisəm ağrayır, çox sancım var, ağzımda acı dad var.
+
+LLM Generated Search Query:
+Açar sözlər və əsas anlayışlar:
+- Öd kisəsi
+- Ağrı
+- Sancı
+- Ağızda acı dad
+
+Təklif olunan axtarış sorğusu:
+
+"Öd kisəsi xəstəliyi cərrahi müdaxilə"
+
+Bu sorğu öd kisəsi problemləri ilə əlaqəli cərrahi prosedurları tapmağa kömək edə bilər. Öd kisəsi ağrısı, sancı və ağızda acı dad öd kisəsi xəstəliyinin əlamətləri ola bilər və bəzi hallarda cərrahi müdaxilə tələb oluna bilər.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.154
+
+**Kod**: 9.44
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 60.45%
+
+**Əsaslandırma**: Xolesistektomiya, yəni öd kisəsinin çıxarılması əməliyyatı, əsasən öd daşı xəstəliyi, xroniki xolesistit kimi öd kisəsi problemlərini müalicə etmək üçün seçilir. Əgər bir şəxs öd kisəsi ağrısı, sancı və ağızda acı dad kimi simptomlarla qarşılaşırsa, bu öd kisəsi xəstəliyinin əlamətləri ola bilər. Bəzi hallarda bu problemlər cərrahi müdaxilə tələb edə bilər və xolesistektomiya ilə həll edilə bilər. Əməliyyat öd kisəsindəki daşı və iltihabı aradan qaldıraraq, şəxsin şikayətlərini azaltmağa kömək edə bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.725
+
+**Kod**: 51.22
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 57.62%
+
+**Əsaslandırma**: Xolesistektomiya əməliyyatı, öd kisəsinin çıxarılması üçün aparılır. Bu prosedur adətən, öd daşları səbəbindən yaranan ağrı və sancı, xroniki xolesistit (öd kisəsinin iltihabı) və ya öd kisəsi xərçəngi kimi ciddi vəziyyətlərdə tətbiq edilir. Təqdim olunan axtarış sorğusundakı "öd kisəsi ağrısı, sancı və ağızda acı dad" əlamətləri, belə problemlərin göstəricisi ola bilər. Bu cür simptomlar zamanı öd kisəsinin çıxarılması üçün cərrahi müdaxilə tələb oluna bilər və buna görə xolesistektomiya seçilmişdir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.156
+
+**Kod**: 9.71
+
+**Ad**: Xoledoxoenterostomiya
+
+**Uyğunluq**: 56.90%
+
+**Əsaslandırma**: Xoledoxoenterostomiya əməliyyatı, ümumi öd axarı ilə bağırsaq arasında yeni bir yol açaraq, öd axarında tıxanma və ya digər problemləri olan xəstələrdə ödün bağırsağa doğru axmasını təmin edir. Bu prosedur adətən öd axarının tıxanması və ya darlığı kimi problemlərdə ödün normal axınının bərpa edilməsi üçün həyata keçirilir. Əgər bir insanda öd kisəsi və ya öd axarı tıxanması səbəbindən ağrı, sancı və ağızda acı dad kimi simptomlar varsa, cərrahi müdaxilə tələb oluna bilər. Bu prosedur da həmin problemləri həll etməyə yönəldilmişdir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.724
+
+**Kod**: 51.13
+
+**Ad**: Öd kisəsinin və ya öd yollarının açıq biopsiyası
+
+**Uyğunluq**: 56.57%
+
+**Əsaslandırma**: Bu prosedur öd kisəsi və ya öd yolları ilə əlaqəli xəstəlikləri diaqnoz etmək üçün seçilir. Əgər bir kəs öd kisəsində ağrı, sancı və ağızda acı dad kimi simptomlar göstərirsə və digər, daha az invaziv üsullar (məsələn, qan testləri və ya ultrason) kifayət etmirsə, həkim dəqiq bir diaqnostika aparmaq üçün öd kisəsinin və ya öd yollarının açıq biopsiyasını təklif edə bilər. Bu prosedurda qarında kəsik açılır və həkim birbaşa öd kisəsinə çatıb oradan toxuma nümunəsi götürür. Bu, xəstəliyin səbəbini daha dəqiq müəyyənləşdirməyə kömək edir və hansı cərrahi müdaxilənin lazım olduğunu qərarlaşdırmağa imkan yaradır.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.153
+
+**Kod**: 9.4
+
+**Ad**: Öd kisəsinin və ya öd yollarının açıq biopsiyası
+
+**Uyğunluq**: 56.43%
+
+**Əsaslandırma**: Öd kisəsinin və ya öd yollarının biopsiyası, öd kisəsi və ya öd yollarında şişlər və digər xəstəlikləri dəqiq diaqnoz etmək üçün istifadə olunan bir prosedurdur. Procedur zamanı cərrah dəridə bir kəsik edərək toxuma nümunəsi götürür. Bu prosedur, öd kisəsi problemləri nəticəsində yaranan ağrı, sancı və ağızda acı dad kimi əlamətlərin səbəbini dəqiq müəyyən etmək üçün seçilmişdir. Bu əlamətlər öd kisəsi xəstəliyinə işarə edə bilər və bəzən dəqiq diaqnoz qoymaq üçün biopsiya tələb olunur ki, lazım gələrsə, gələcəkdə cərrahi müdaxilə planlaşdırıla bilsin.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.725
+
+**Kod**: 51.22
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 75.31%
+
+**Əsaslandırma**: Xolesistektomiya öd kisəsini tamamilə çıxarmaq üçün aparılan bir əməliyyatdır. Bu əməliyyat, öd daşları, xroniki xolesistit və ya öd kisəsi xərçəngi kimi ciddi problemləri müalicə etmək üçün lazım olur. Axtarış sorğusunda göstərilən "öd kisəsi", "ağrı", "sancı" və "ağızda acı dad" kimi əlamətlər, öd kisəsi xəstəliyinin işarəsi ola bilər. Bu səbəbdən, bəzən xəstəlikləri həll etmək və daha ciddi fəsadların qarşısını almaq üçün cərrahi müdaxilə, yəni xolesistektomiya tələb olunur.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.154
+
+**Kod**: 9.44
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 74.94%
+
+**Əsaslandırma**: Xolesistektomiya, yəni öd kisəsinin çıxarılması əməliyyatı, öd kisəsi ilə bağlı problemlərin həlli üçün seçilir. Bu qərarın əsas səbəbi, öd daşı xəstəliyi və ya xroniki xolesistit kimi problemlərin olmasıdır. Öd kisəsi ağrısı, sancı və ağızda acı dad nəfərə diskomfort yaşatdıqda və konservativ müalicələr effektli olmadıqda, cərrahi müdaxilə lazım olur. Bu əməliyyat, problemsiz bir həyat tərzini bərpa etmək və ge gələcəkdə daha ciddi çətinliklərin qarşısını almaq üçün həyata keçirilə bilər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.726
+
+**Kod**: 51.23
+
+**Ad**: Laparoskopik xolesistektomiya
+
+**Uyğunluq**: 73.47%
+
+**Əsaslandırma**: Laparoskopik xolesistektomiya, öd kisəsi haqqında problemləri olan insanlar üçün seçilən bir əməliyyatdır, çünki bu, minimal invaziv bir üsuldur. Yəni, həkimlər qarın nahiyəsində kiçik kəsiklər açır, öd kisəsini çıxarmaq üçün kamera və xüsusi alətlərdən istifadə edirlər. Bu əməliyyat, ənənəvi açıq cərrahiyyə ilə müqayisədə daha az ağrılı olur və xəstələrin daha tez sağalmasına imkan verir. Öd kisəsində daşlar ya da infeksiya olduqda, sancı, ağrı və ağızda acı dad kimi əlamətlər yaşanır və bəzən bu simptomların həll olunması üçün əməliyyat lazım olur.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.737
+
+**Kod**: 51.91
+
+**Ad**: Öd kisənin cırılmasının bərpası
+
+**Uyğunluq**: 71.68%
+
+**Əsaslandırma**: Öd kisənin cırılmasının bərpası əməliyyatı, öd kisəsində yaranan zədələnmə və ya cırılma hallarını müalicə etmək üçün seçilir. Bu prosedur, öd kisəsi travmaları və ya xəstəlik səbəbindən cırılmalar zamanı zədələnmiş sahənin tikilməsi ilə problemləri aradan qaldırır. Öd kisəsində yaranan problemlər, məsələn ağrı, sancı və ağızda acı dad kimi əlamətlərlə özünü göstərə bilər. Təqdim olunan axtarış sorğusu, öd kisəsi ilə bağlı problemlərin həlli üçün lazım olan cərrahi müdaxilələri tapmağa və belə hallarda nə edilə biləcəyini başa düşməyə kömək edir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.153
+
+**Kod**: 9.4
+
+**Ad**: Öd kisəsinin və ya öd yollarının açıq biopsiyası
+
+**Uyğunluq**: 70.21%
+
+**Əsaslandırma**: Bu prosedur, yəni öd kisəsinin və ya öd yollarının açıq biopsiyası, bir insanın öd kisəsində və ya öd yollarında problem olduğunda, məsələn ağrı, sancı, və ağızda acı dad kimi əlamətlər meydana çıxdığında istifadə oluna bilər. Bu simptomlar öd kisəsi xəstəliklərinin göstəricisi ola bilər. Bu cərrahi prosedurda həkimlər kiçik bir kəsik aparıb, problemli hesab etdikləri yerdən toxuma nümunəsi götürürlər. Alınan bu toxuma nümunəsi daha sonra laboratoriyada araşdırılır ki, hər hansı bir şiş və ya başqa ciddi xəstəliklərin olub-olmadığı dəqiq müəyyən edilsin. Yəni, bu prosedur diaqnoz qoymaq və müvafiq müalicəni planlaşdırmaq üçün əhəmiyyətlidir.
+
+----------------------------------------------------------------
