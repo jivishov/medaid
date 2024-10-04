@@ -11,3 +11,4 @@ psycopg2-binary
 qdrant_client
 pandas
 cohere
+PyGithub
