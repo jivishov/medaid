@@ -1,0 +1,156 @@
+User Input:
+Ayaqda şişkinlik, ağrı, qızartı
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Ayaqda varikoz venaların cərrahi müalicəsi
+
+Açar sözlər və əsas anlayışlar:
+- Ayaq
+- Şişkinlik
+- Ağrı
+- Qızartı
+- Varikoz venalar
+- Cərrahi müalicə
+
+Bu simptomlar (şişkinlik, ağrı, qızartı) ayaqda varikoz venaların olmasına işarə edə bilər. Buna görə də, cərrahi xidmətlər arasında varikoz venaların müalicəsi ilə bağlı prosedurları axtarmaq məqsədəuyğun olar.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.518
+
+**Kod**: 38.59
+
+**Ad**: Varikoz venalara liqaturanın qoyulması və ayrılması, aşağı ətraf venaları
+
+**Uyğunluq**: 67.30%
+
+**Əsaslandırma**: Varikoz venalar bacaklarda meydana gələn genişlənmiş və şişkin damarlardır ki, bunlar tez-tez ağrı, şişkinlik və qızartı ilə müşayiət olunur. Bu vəziyyət qan axınının normal olmamasına səbəb ola bilər. Verilən məlumatlara görə, "varikoz venalara liqaturanın qoyulması və ayrılması" proseduru bu problemi həll etmək üçün istifadə olunur. Həkim problemli venaları tapır, bağlayır və kəsir, beləliklə qan axını normal venalara yönləndirilir, beləliklə ağrılar azaldılır və ayağın daha estetik görünməsi təmin edilir. Axtarış sorğusu bu cür simptomlarla əlaqəli olan varikoz venaların daha yaxşı müalicəsi üçün uyğun cərrahi prosedurların axtarılması məqsədini daşıyır.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.527
+
+**Kod**: 38.69
+
+**Ad**: Damarın digər kəsiklə çıxarılması, aşağı ətraf venaları
+
+**Uyğunluq**: 66.98%
+
+**Əsaslandırma**: Bu əməliyyat, ayaqda varikoz venaların olması səbəbindən qan axınının pozulmasına, ağrıya, şişkinliyə və qızartıya səbəb olan venaların anormal hissələrini aradan qaldırmaq üçün seçilir. Varikoz venalar, ayaq damarlarında qan yığılmasına və damarların şişkinləşməsinə səbəb olur. Cərrahi müdaxilə bu problemi həll edərək qan axınını düzəltmək, ayaqda yaranan narahatlığı və ağrını azaltmaq, həmçinin varikoz venaların görüntüsünü yaxşılaşdırmaq məqsədini daşıyır.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.890
+
+**Kod**: 63.1
+
+**Ad**: Toxum ciyəsinin varikosele və hidroselenin kəsiklə çıxarılması
+
+**Uyğunluq**: 66.70%
+
+**Əsaslandırma**: Toxum ciyəsinin varikosele və hidroselenin kəsiklə çıxarılması proseduru toxum ciyəsində yaranmış problemləri aradan qaldırmaq üçün seçilmişdir. Varikosele, toxum ciyəsində venaların genişlənməsi deməkdir və bu, ağrı və narahatlıq yarada bilər. Hidrosele isə toxum ciyəsində maye yığılmasıdır və şişkinlik səbəb ola bilər. Hər iki vəziyyət cərrahi yolla müdaxilə edilərək müalicə edilir. Bu prosedur bu problemləri həll etmək və xəstənin rahatlığını təmin etmək üçün seçilir. Buna bənzər təyin olunan axtarış sorğusunda isə ayaqda varikoz venalar üçün cərrahi müalicə axtarılır, hansı ki, şişkinlik, ağrı və qızartı ilə bağlı problemlərə səbəb olur.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.517
+
+**Kod**: 38.53
+
+**Ad**: Varikoz venalara liqaturanın qoyulması və ayrılması, yuxarı ətraf damarları
+
+**Uyğunluq**: 65.55%
+
+**Əsaslandırma**: Bu əməliyyat, qol və əl bölgəsindəki varikoz venaların müalicəsi üçün seçilir. Varikoz venalar qan dövranının normal işləməsinə maneə törədə, görkəmcə narahatlıq yarada və ağrıya səbəb ola bilər. Bu prosedurda həkim, problemli venaları bağlayır və kəsərək onları qan axınından çıxarır. Bununla qan, sağlam venalardan daha yaxşı axmağa başlayır və eyni zamanda qolun estetik görünüşü də yaxşılaşdırılır. Başqa sözlə, genişlənmiş venalar çıxarılır ki, həm sağlamlıq, həm də görünüş baxımından daha yaxşı nəticə əldə olunsun.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.20
+
+**Kod**: 0.63
+
+**Ad**: Qida borusunun varikoz genişlənmiş venalarına liqaturanın (həlqə) qoyulması
+
+**Uyğunluq**: 64.72%
+
+**Əsaslandırma**: Qida borusunun varikoz genişlənmiş venalarına liqaturanın (həlqə) qoyulması proseduru, əsasən, qida borusunda genişlənmiş olan və qanaxma riski daşıyan venaların müalicəsi üçün seçilir. Bu prosedur elastik həlqələrin bu venaların üzərinə qoyulması ilə qanaxmanın qarşısını almağa kömək edir. Beləliklə, qida borusundakı varikoz venaların partlayıb qanaxma yaratmasının qarşısı alınır. Bu, az invaziv prosedur olduğu üçün təhlükəsiz və effektiv sayılır, xüsusilə də portal hipertenziya kimi problemlərin müalicəsində istifadə olunur.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.518
+
+**Kod**: 38.59
+
+**Ad**: Varikoz venalara liqaturanın qoyulması və ayrılması, aşağı ətraf venaları
+
+**Uyğunluq**: 77.55%
+
+**Əsaslandırma**: Bu prosedur, ayaq və baldır bölgəsində varikoz venaları olan şəxslərin simptomlarını azaltmaq və görünüşünü yaxşılaşdırmaq üçün seçilmişdir. Varikoz venalar, genişlənmiş və bəzən ağrılı olan venalardır və şişkinlik, ağrı və qızartıya səbəb ola bilər. Həkimlər problemli venalara liqatura qoyur, yəni bu venaları bağlayır və sonra çıxarırlar ki, qan axını sağlam venalara yönəlsin. Bu cərrahi müdaxilə məqsədi, ayaqlardakı ağrını azaltmaq, şişkinliyi azaltmaq və estetik görkəmi yaxşılaşdırmaqdır. Beləliklə, simptomları yaşayan insanlar üçün bu prosedur uyğun bir seçim ola bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.527
+
+**Kod**: 38.69
+
+**Ad**: Damarın digər kəsiklə çıxarılması, aşağı ətraf venaları
+
+**Uyğunluq**: 77.25%
+
+**Əsaslandırma**: Bu tibbi prosedur ayaqda varikoz venaların yaratdığı problemləri həll etmək üçün seçilir. Varikoz venalar damarların genişlənməsi nəticəsində meydana çıxır və bu, qan axınını pisləşdirə, ağrıya, şişkinliyə və qızartıya səbəb ola bilər. Prosedur zamanı həkim problemli venanı çıxardır ki, bu, qan dövranını yaxşılaşdırır, ağrını azaldır və varikoz venaların görünüşünü yaxşılaşdırır. Bu problemləri aradan qaldırmaq üçün cərrahi müalicə vacib bir addım ola bilər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.564
+
+**Kod**: 39.92
+
+**Ad**: Sklerozlaşdırıcı maddənin venaya inyeksiyası (aşağı ətrafların skleroterapiyası)
+
+**Uyğunluq**: 76.95%
+
+**Əsaslandırma**: Sklerozlaşdırıcı maddənin venaya inyeksiyası proseduru, varikoz venalarının müalicəsi üçün seçilib. Bu prosedurda, həkimlər problemli venalara xüsusi bir maddə inyeksiya edirlər ki, bu maddə venaların divarlarını qıcıqlandırıb onların bağlanmasına səbəb olur. Nəticədə, qan daha sağlam venalara yönəlir və bu, estetik görünüşü yaxşılaşdırır, həmçinin ağrını azalda bilər. Axtarış sorğusunda qeyd olunan simptomlar (şişkinlik, ağrı, qızartı) varikoz venaların mövcudluğuna işarə etdiyindən, bu prosedur problemin kosmetik və fiziki təsirlərini aradan qaldırmaq üçün uyğun bir seçimdir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.537
+
+**Kod**: 38.89
+
+**Ad**: Damarların digər cərrahi okklüziyası, aşağı ətraf venaları
+
+**Uyğunluq**: 76.82%
+
+**Əsaslandırma**: Bu tibbi prosedur ayaqda varikoz venaların müalicəsi üçün seçilib, çünki bu həll yolu şişkinlik, ağrı və qızartı kimi simptomlar olan insanların rahatlamasına kömək edə bilir. Prosedur zamanı ayaq və baldır bölgəsindəki problemli venalar həkim tərəfindən xüsusi materiallarla bağlanır. Bu, qanaxmanı azaltmağa və ya dayandırmağa, habelə varikoz venaların səbəb olduğu narahatlığı azalmağa kömək edir. Varikoz venalar, nəzərə çarpan xüsusiyyətləri ilə damarlar üzərində yükü artırır və bu cərrahi müdaxilə həmin problemləri aradan qaldırmağa yönəlib.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.517
+
+**Kod**: 38.53
+
+**Ad**: Varikoz venalara liqaturanın qoyulması və ayrılması, yuxarı ətraf damarları
+
+**Uyğunluq**: 74.34%
+
+**Əsaslandırma**: Bu prosedur, qol və əl bölgəsindəki varikoz venaları müalicə etmək üçün seçilib. Varikoz venalar, venaların genişlənməsi və qandakı axının düzgün olmaması ilə əlaqədardır. Bu əməliyyatda, həkim genişlənmiş venaları tapır, onları bağlayır və kəsib ayırır. Bunun məqsədi qan axınını sağlam venalara yönləndirmək və qolun estetik görünüşünü yaxşılaşdırmaqdır. Əsas fikir, şişkinlik, ağrı və qızartı kimi simptomların aradan qaldırılmasıdır.
+
+----------------------------------------------------------------
