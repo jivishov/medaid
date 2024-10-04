@@ -1,0 +1,158 @@
+User Input:
+Sağ qasıq nahiyyəsində şişkinlik, dəbəlik, ağırlıq qaldıran zaman şişkinliyin artması, ağrı
+
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Qasıq yırtığı əməliyyatı
+
+Əsas anlayışlar və açar sözlər:
+1. Sağ qasıq nahiyyəsi
+2. Şişkinlik
+3. Dəbəlik
+4. Ağırlıq qaldıranda şişkinliyin artması
+5. Ağrı
+
+Bu əlamətlər qasıq yırtığına işarə edir. Ona görə də, cərrahi müdaxilə kodları və təsvirləri arasında qasıq yırtığı əməliyyatı ilə bağlı xidmətləri axtarmaq məqsədəuyğundur.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.2
+
+**Kod**: 0.41
+
+**Ad**: Ezofaqostomiya
+
+**Uyğunluq**: 57.30%
+
+**Əsaslandırma**: Ezofaqostomiya əməliyyatı, qida borusunu xaricə açmaq üçün aparılan bir cərrahi müdaxilədir və adətən qidalanma və ya nəfəs alma problemləri ilə üzləşən xəstələrdə seçilir. Bu prosedur, xəstənin boğazında və ya qida borusunda normal funksiyanın yerinə yetirilmədiyi hallarda qidanı bədənə daxil etməyə və ya nəfəs almağı yaxşılaşdırmağa kömək edir.
+
+Qasıq yırtığı isə, qarın boşluğundakı organların qasıq nahiyyəsindən dəri altına çıxmasına səbəb olan bir vəziyyətdir. Bu, şişkinlik, ağrı və xüsusilə ağırlıq qaldıranda narahatlıq yaradır. Təklif olunan axtarış sorğusu qasıq yırtığı ilə bağlı olduğu üçün, cərrahi müdaxilələr arasından qasıq yırtığı əməliyyatını axtarmaq məqsədəuyğundur. Hər iki əməliyyat fərqli məqsədlər üçün həyata keçirilir və fərqli problemləri həll etməyə yönəlmişdir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.207
+
+**Kod**: 13.65
+
+**Ad**: Digər yırtığın bərpası (digər abdominopelvik yırtıqların işiatik, işiorektal, lumbar, obturator, retroperitoneal, şiatik bərpası)
+
+**Uyğunluq**: 55.71%
+
+**Əsaslandırma**: Bu prosedur qasıq yırtığının cərrahi yolla bərpası üçün seçilmişdir, çünki verilən əlamətlər və axtarış sorğusundakı açar sözlər qasıq yırtığına işarə edir. Xüsusən, sağ qasıq nahiyəsində şişkinlik, ağırlıq qaldırdıqda şişkinliyin artması və ağrı kimi şikayətlər qasıq yırtığının göstəriciləridir. Ona görə də, bu problemi həll etmək üçün cərrahi əməliyyat tələb olunur.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.778
+
+**Kod**: 53.9
+
+**Ad**: Digər yırtığın bərpası (digər abdominopelvik yırtıqların işiatik, işiorektal, lumbar, obturator, retroperitoneal, şiatik bərpası)
+
+**Uyğunluq**: 55.38%
+
+**Əsaslandırma**: Yırtığın təsviri qarın və çanaq boşluğunda olan nadir yırtıq növlərinin bərpası ilə əlaqədardır. Lakin axtarış sorğusu qasıq yırtığına yönəlmişdir. Qasıq yırtığı, qarının aşağı hissəsində, qasıq nahiyəsində meydana gələn bir yırtıq növüdür. Verilən əlamətlər (sağ qasıq nahiyyəsində şişkinlik, hərəkət edərkən və ya ağırlıq qaldırarkən bu şişkinliyin artması, ağrı hissi) qasıq yırtığına işarə edir. Buna görə də, axtarış sorğusu spesifik olaraq qasıq yırtığı əməliyyatına aid xidmətləri axtarmağa daha uyğundur. Digər yırtıq növlərindən fərqli olaraq, qasıq yırtığı daha yaygındır və fərqli cərrahi müdaxilə tələb edir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.754
+
+**Kod**: 53.03
+
+**Ad**: Düz qasıq yırtığının qreft və ya protezlə digər və açıq bərpası (düz qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmaqla)
+
+**Uyğunluq**: 54.27%
+
+**Əsaslandırma**: Düz qasıq yırtığı əməliyyatı, qasıq nahiyəsində yaranan yırtığı düzəltmək üçün edilir. Əməliyyatda həkim kəsik açır və problemli sahəni süni materialla, yəni qreft və ya protezlə, gücləndirir. Bu, gələcəkdə yırtığın təkrar yaranmasının qarşısını almaq üçün edilir. Əməliyyat üçün səbəblər arasında qasıq nahiyəsində ağrı və şişkinlik, xüsusilə ağırlıq qaldırarkən bu vəziyyətin pisləşməsi, yəni əlamətlərin artması ola bilər. Bu səbəbdən, qasıq yırtığı ilə bağlı xidmətlər axtarılaraq, düzgün müalicə istiqaməti müəyyən edilir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.752
+
+**Kod**: 53.01
+
+**Ad**: Düz qasıq yırtığının digər və açıq bərpası (düz qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmadan)
+
+**Uyğunluq**: 53.94%
+
+**Əsaslandırma**: Qasıq yırtığı əməliyyatı seçilib, çünki bu prosedur qasıq nahiyəsində meydana gələn yırtığın təmir edilməsini təmin edir. Əlamətlərə baxdıqda, məsələn ağırlıq qaldırdıqda şişkinliyin artması və ağrının olması, bu yırtığın simptomlarıdır. Əməliyyat zamanı həkim yırtığın olduğu nahiyədə kəsik açaraq əzələ qatını möhkəmləndirir, beləliklə şişkinliyə və ağrıya səbəb olan yırtığı düzəldir. Bu əməliyyat süni materiallardan istifadə etmədən icra olunur, yəni bədəndə əlavə yad material qalmır. Seçim də məhz buna görədir ki, ənənəvi üsuldan istifadə edərək yırtıq problemi aradan qaldırılsın.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.752
+
+**Kod**: 53.01
+
+**Ad**: Düz qasıq yırtığının digər və açıq bərpası (düz qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmadan)
+
+**Uyğunluq**: 73.05%
+
+**Əsaslandırma**: Düz qasıq yırtığının ənənəvi açıq üsulla bərpası proseduru, qasıq nahiyəsində yaranmış yırtığın əməliyyat vasitəsilə düzəldilməsini nəzərdə tutur. Bu cür əməliyyat, xüsusilə yırtığın təkrar şişməsi və ya ağrı yaratması vəziyyətində seçilir. Həkim, qasıq nahiyəsində kiçik bir kəsik açaraq yırtığı geri itələyir və zəif olmuş əzələ qatını möhkəmləndirir. Prosedurda süni materiallardan istifadədən qaçınılır, yəni orqanizmin öz toxumaları istifadə olunur. Əsas səbəb, bu əlamətlərin (şişkinlik, dəbəlik, ağırlıq qaldıranda şişkinliyin artması, ağrı) qasıq yırtığına işarə etməsidir və əməliyyat bu problemləri həll etməyə kömək edir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.753
+
+**Kod**: 53.02
+
+**Ad**: Çəp qasıq yırtığının digər və açıq bərpası (çəp qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmadan)
+
+**Uyğunluq**: 72.79%
+
+**Əsaslandırma**: Çəp qasıq yırtığının açıq bərpası əməliyyatı, qasıq yırtığı olan şəxslər üçün seçilib, çünki bu problem əlamətlərlə özünü göstərir: sağ qasıq nahiyəsində şişkinlik, dəbəlik və ağırlıq qaldıranda bu şişkinliyin artması kimi hallar ortaya çıxa bilər. Bu simptomlar insana narahatlıq verə bilər və hətta ağrıya səbəb ola bilər. Əməliyyat zamanı həkim ənənəvi üsulla, yəni kəsik açaraq yırtıq kisəsini geri itələyir və zəifləmiş əzələ qatını möhkəmləndirir. Burada süni material (qreft) istifadə olunmur, yəni tamamilə təbii toxumalar üzərində işlənir. Bu, yırtığın səbəb olduğu problemləri aradan qaldırmaq və gələcəkdə yırtığın yenidən yaranmasının qarşısını almaq üçün edilir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.181
+
+**Kod**: 12.39
+
+**Ad**: Düz qasıq yırtığının digər və açıq bərpası (düz qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmadan)
+
+**Uyğunluq**: 72.31%
+
+**Əsaslandırma**: Bu prosedur düz qasıq yırtığının ənənəvi üsulla, yəni açıq cərrahi yolla süni material olmadan bərpa olunmasını nəzərdə tutur. Bu, xüsusilə kiçik və ya ilk dəfə yaranan yırtıqlar üçün uyğundur. Səbəb, xəstəlik əlamətlərinin - sağ qasıq nahiyəsində şişkinlik, debəlik və ağırlıq qaldıranda artan ağrı kimi - qasıq yırtığına işarə etməsidir. Bu əməliyyat bu ilə bağlı olan əlamətləri aradan qaldırmaq üçün seçilir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.754
+
+**Kod**: 53.03
+
+**Ad**: Düz qasıq yırtığının qreft və ya protezlə digər və açıq bərpası (düz qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmaqla)
+
+**Uyğunluq**: 72.30%
+
+**Əsaslandırma**: Düz qasıq yırtığının qreft və ya protezlə açıq bərpası adlı bu əməliyyat, qasıq nahiyəsindəki yırtığı ənənəvi şəkildə düzəltmək üçün seçilib. Bunun səbəbi, yırtıq əlamətlərinin – məsələn, sağ qasıq nahiyyəsində şişkinlik, ağırlıq qaldıranda şişkinliyin artması və ağrı – mövcud olmasıdır. Bu əlamətlər qasıq yırtığına işarədir və əməliyyat zamanı həkim kəsik açaraq yırtıq kisəsini geri itələyir və zəifləmiş əzələləri gücləndirmək üçün süni material (qreft və ya protez) istifadə edir. Bu material istifadə edərək, təkrar yırtıq riskini azaltmaq məqsədilə əzələlər möhkəmləndirilir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.183
+
+**Kod**: 12.42
+
+**Ad**: Düz qasıq yırtığının qreft və ya protezlə digər və açıq bərpası (düz qasıq yırtığının birtərəfli açıq üsulla bərpası, qreft istifadə olunmaqla)
+
+**Uyğunluq**: 72.06%
+
+**Əsaslandırma**: Düz qasıq yırtığının qreft və ya protezlə digər və açıq bərpası əməliyyatı, qasıq nahiyyəsində meydana gələn yırtıqların müalicəsi üçün seçilir. Bu üsul, xüsusilə daha böyük və ya daha əvvəl əməliyyat edilmiş (təkrarlanan) yırtıqlar üçün uyğundur. Burada açıq cərrahiyyə metodu istifadə edilir və zəif bölgəni möhkəmləndirmək və yırtığın təkrar əmələ gəlməsinin qarşısını almaq üçün süni material, yəni qreft və ya protez istifadə olunur. Belə bir əməliyyat, yırtıq nəticəsində meydana gələn şişkinlik, ağrı və ağırlıq qaldıranda yaranan narahatlıqları aradan qaldırmaq üçün tətbiq edilir. Bu səbəbdən, bu əməliyyat qasıq yırtığı simptomları olan şəxslər üçün məsləhət görülür.
+
+----------------------------------------------------------------
