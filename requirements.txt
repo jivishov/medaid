@@ -8,3 +8,7 @@ typing
 datetime
 asyncio
 psycopg2-binary
+qdrant_client
+anthropic.types
+pandas
+cohere
