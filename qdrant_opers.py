@@ -3,16 +3,18 @@ from streamlit import secrets as my_secrets
 from qdrant_client import QdrantClient
 from qdrant_client.http import models
 from qdrant_client.models import PointStruct
-import openai
 import cohere
 import os, uuid
 from openai import OpenAI
+import openai
 import pandas as pd
 from io import StringIO
 from anthropic import Anthropic
 import asyncio
 from anthropic import AsyncAnthropic
 from anthropic.types import ContentBlockDeltaEvent
+from datetime import datetime
+from github import Github, GithubException
 # ----------------------------
 # Configuration and API Keys
 # ----------------------------
@@ -20,11 +22,10 @@ st.set_page_config(page_icon=None, layout="wide", initial_sidebar_state="collaps
 # Function to load API keys from environment variables or Streamlit secrets
 def load_api_keys():
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY') or st.secrets.get("OPENAI_API_KEY")
-    COHERE_API_KEY ="KWTDJc494M5NKqbMIs1vEYDGP1lKc3JRVEr9Rb7V" #os.getenv('COHERE_API_KEY') or st.secrets.get("COHERE_API_KEY")
-    #QDRANT_HOST = os.getenv('QDRANT_HOST') or st.secrets.get("QDRANT_HOST", "localhost")
+    COHERE_API_KEY =os.getenv('COHERE_API_KEY') #"KWTDJc494M5NKqbMIs1vEYDGP1lKc3JRVEr9Rb7V" #os.getenv('COHERE_API_KEY') or st.secrets.get("COHERE_API_KEY")
+    QDRANT_HOST = os.getenv('QDRANT_HOST') or st.secrets.get("QDRANT_HOST", "localhost")
     QDRANT_PORT = 6333# int(os.getenv('QDRANT_PORT') or st.secrets.get("QDRANT_PORT", 6333))
-    QDRANT_HOST ="d07ec8c8-2a6e-48f6-89ac-9be46ee7b24d.europe-west3-0.gcp.cloud.qdrant.io" #st.secrets["qdrant_secrets"]["QDRANT_HOST"]
-    QDRANT_API_KEY ="KDSwKtqXOgNPTHhLC7OcWtc3XiebzEeIJgFt2kQxCSDm_kX4vRooiA" #st.secrets["local_qdrant_secrets"]["QDRANT_API_KEY"]
+    QDRANT_API_KEY =os.getenv('QDRANT_API_KEY') #"KDSwKtqXOgNPTHhLC7OcWtc3XiebzEeIJgFt2kQxCSDm_kX4vRooiA" #st.secrets["local_qdrant_secrets"]["QDRANT_API_KEY"]
     return OPENAI_API_KEY, COHERE_API_KEY, QDRANT_HOST, QDRANT_PORT, QDRANT_API_KEY
 
 
@@ -44,6 +45,35 @@ if OPENAI_API_KEY and COHERE_API_KEY:
         qdrant_client = QdrantClient(host=QDRANT_HOST, port=QDRANT_PORT)
     except Exception as e:
         st.error(f"Failed to connect to Qdrant: {e}")
+
+
+def save_to_github(user_input, search_query, llm_output, github_token, github_repo):
+    try:
+        # Create a Github instance using the provided token
+        g = Github(github_token)
+
+        # Get the repository
+        repo = g.get_repo(github_repo)
+
+        # Create a unique filename based on timestamp
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"logs/interaction_{timestamp}.txt"
+
+        # Prepare the content
+        content = f"User Input:\n{user_input}\n\n"
+        content += f"LLM Generated Search Query:\n{search_query}\n\n"
+        content += f"LLM Generated Output:\n{llm_output}\n"
+
+        # Create the file in the repository
+        repo.create_file(
+            path=filename,
+            message=f"Add interaction log: {filename}",
+            content=content
+        )
+
+        return f"Interaction saved to {filename} and pushed to GitHub repo."
+    except Exception as e:
+        return f"Error saving to GitHub: {str(e)}"
 
 # ----------------------------
 # Utility Functions
@@ -502,7 +532,16 @@ if st.button("Analiz et"):
 
         # Optional: Add a horizontal line to separate the results from other content
         st.markdown("---")
-
+                # After analysis is complete
+        repo_path = "medaid"  # Replace with your actual Git repo path
+        llm_output = formatted_output_openai + "\n\n" + formatted_output_cohere
+        github_token=st.secrets["medaid_streamlit"]
+        github_repo="medaid"
+        if github_token and github_repo:
+            save_result = save_to_github(user_text, search_query, llm_output, github_token, github_repo)
+            st.success(save_result)
+        else:
+            st.warning("GitHub token or repository not provided. Results not saved to GitHub.")
 
 # st.header("Enter Your Health Description")
 
