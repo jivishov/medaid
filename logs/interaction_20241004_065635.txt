@@ -1,0 +1,155 @@
+User Input:
+Düz bağırsaq nahiyyəsində ağrı, nəcisdə qan
+
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Düz bağırsaq cərrahiyyəsi, proktologiya, nəcisdə qan
+
+Əsas anlayışlar və açar sözlər:
+1. Düz bağırsaq (rektum)
+2. Ağrı
+3. Nəcisdə qan
+4. Proktologiya
+
+Bu sorğu ilə düz bağırsaq nahiyəsində ağrı və nəcisdə qan şikayətləri ilə əlaqəli cərrahi prosedurları və müvafiq tibbi xidmət kodlarını tapmaq mümkün olacaq. Proktoloji müayinə və müalicə üsulları da bu axtarışa daxil edilə bilər.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.107
+
+**Kod**: 7.62
+
+**Ad**: Düz bağırsağın açıq biopsiyası
+
+**Uyğunluq**: 58.13%
+
+**Əsaslandırma**: Düz bağırsağın açıq biopsiyası proseduru, düz bağırsaqdan bir parça toxuma götürmək məqsədilə cərrahi kəsik istifadə edir. Bu, düz bağırsağın xəstəliklərini, xüsusən də xərçəngi dəqiqliklə diaqnoz etmək üçün edilir. Axtarış sorğusunda isə nəcisdə qan və düz bağırsaq ağrısı kimi simptomlar vurğulanır. Bu simptomlar düz bağırsaqda potensial problemlərin əlaməti ola bilər ki, biopsiya ilə dəqiq diaqnoz qoyula bilsin. Beləliklə, bu prosedur şübhəli simptomlar olan xəstələrdə xəstəliyin başlanğıc mərhələsində aşkarlanmasına və müalicənin doğru istiqamətdə aparılmasına imkan verir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.967
+
+**Kod**: 70.52
+
+**Ad**: Rektoselenin bərpası (Arxa kolporafiya)
+
+**Uyğunluq**: 55.79%
+
+**Əsaslandırma**: Rektoselenin bərpası, yəni arxa kolporafiya, düz bağırsağın uşaqlıq yoluna doğru sallanması vəziyyətini düzəltmək üçün seçilir. Bu sallanma qadınlarda narahatlıq yarada bilər və rektum bölgəsində ağrıya səbəb ola bilər. Eləcə də, bu vəziyyət nəcisdə qan və ya digər bağırsaq problemləri ilə özünü göstərə bilər. Bu prosedur, həmin problemləri həll etmək üçün düz bağırsağın və uşaqlıq yolunun yerləşməsini düzəltməklə yanaşı, vaginal divarın arxa hissəsini də bərkidərək müvafiq funksiyanı bərpa etməyə kömək edir. Bu səbəblə, ağrı və nəcisdə qan kimi şikayətləri olan şəxslər üçün uyğun ola bilər, çünki bu şikayətlər rektosele ilə əlaqəli ola bilər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.65
+
+**Kod**: 4.01
+
+**Ad**: Nazik bağırsağın digər hissəvi rezeksiyası (Duodenektomiya. İleoektomiya. Yeyunektomiya)
+
+**Uyğunluq**: 54.59%
+
+**Əsaslandırma**: Nazik bağırsağın digər hissəvi rezeksiyası əməliyyatı müxtəlif bağırsaq xəstəlikləri və ya şişlərin müalicəsində istifadə olunur. Bu əməliyyat, nazik bağırsağın bir neçə bölməsinin, məsələn, onikibarmaq bağırsağın, qalça bağırsağın və ya acı bağırsağın çıxarılması ilə həyata keçirilir. Əsas məqsəd bağırsaqdakı problemli yerləri aradan qaldırmaqdır. Axtarış isə daha çox, düz bağırsaqla əlaqəli problemlərə, məsələn, ağrı və nəcisdə qan kimi simptomların müayinəsinə yönəlib. Nazik bağırsağın rezeksiyası, adətən, düz bağırsaq problemləri üçün birbaşa əlaqəli bir müalicə deyil, lakin bağırsaq xəstəliklərinin müalicəsi üçün geniş spektrli cərrahiyyə əməliyyatları kateqoriyasına daxildir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.57
+
+**Kod**: 3.71
+
+**Ad**: Enterotomiya
+
+**Uyğunluq**: 54.29%
+
+**Əsaslandırma**: Enterotomiya əməliyyatı bağırsaqda bir kəsik açmaqla həyata keçirilir. Bu əməliyyat əsasən bağırsaqda problem yaratan yad cisimləri çıxarmaq və ya həmin nahiyənin müayinəsini həyata keçirmək üçün edilir. Sizin axtarış sorğunuz düz bağırsaqda ağrı və nəcisdə qanla əlaqəli olduğundan, enterotomiya sizin vəziyyətiniz üçün uyğun əməliyyat olmaya bilər. Axtardığınız problemlər daha çox proktologiya sahəsinə aiddir, yəni düz bağırsaqla bağlı xəstəliklərin müayinə və müalicəsi. Bu halda proktoloji müayinə və müvafiq cərrahi müdaxilələr daha məqsədəuyğun ola bilər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.128
+
+**Kod**: 8.38
+
+**Ad**: Anusun biopsiyası (açıq)
+
+**Uyğunluq**: 53.94%
+
+**Əsaslandırma**: Anusun biopsiyası proseduru anus toxumasından nümunə götürmək üçün cərrahi kəsik edilməsini əhatə edir. Bu prosedur, xüsusilə anus xərçəngi və digər anus xəstəliklərini dəqiq şəkildə diaqnoz etmək üçün seçilir. Axtarış sorğusundakı "düz bağırsaq cərrahiyyəsi", "ağrı" və "nəcisdə qan" kimi açar sözlər, bu nahiyədə problem olduğuna işarə edir. Anusun biopsiyası, anus və ətraf bölgələrdəki problemlərin, məsələn xərçəngin olub olmadığını yoxlamaq üçün tətbiq olunan üsullardan biridir. Belə ki, nəcisdə qan və ya anus və ya düz bağırsaqda ağrı kimi simptomlar varsa, bu prosedur xəstəliyin səbəbini dəqiqləşdirmək üçün lazımlı ola bilər.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.121
+
+**Kod**: 8.31
+
+**Ad**: Düz bağırsağın digər bərpa növləri
+
+**Uyğunluq**: 73.82%
+
+**Əsaslandırma**: Düz bağırsaqla bağlı bu cərrahi prosedur, düz bağırsaqda yaranan problemlərin həllinə yönəlib. Əsas səbəblərdən biri əgər xəstədə nəcisdə qan və ya düz bağırsaqda ağrı varsa, bu problemləri aradan qaldırmaq üçün belə bir əməliyyat seçilə bilər. Bu prosedur düz bağırsağın normal funksiyasını və strukturasını bərpa etməyə kömək edir. Beyin tərəfindən göndərilən axtarış sorğusu, düz bağırsaq cərrahiyyəsi və proktologiya ilə bağlı bəzi şərtləri və tibbi xidmətləri öyrənmək istəyən birinə bu əməliyyatın səbəbi haqqında aydınlıq gətirə bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.683
+
+**Kod**: 48.42
+
+**Ad**: Düz bağırsağın laparoskopik transanal rezeksiyası
+
+**Uyğunluq**: 71.46%
+
+**Əsaslandırma**: Düz bağırsağın laparoskopik transanal rezeksiyası əməliyyatı, düz bağırsağın bir hissəsindəki problemləri həll etmək üçün seçilə bilər, məsələn, bu bölgədə ağrı və nəcisdə qan kimi şikayətlər olduqda. Bu üsul minimal invazivdir, yəni bədənə daha az müdaxilə ilə həyata keçirilir. Bu cərrahi müdaxilə, ənənəvi açıq cərrahiyədən daha az ağrıya səbəb olur və sağalma müddəti daha qısa olur. Bu səbəbdən, belə problemləri olan xəstələr üçün daha rahat və effektiv bir variant ola bilər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.679
+
+**Kod**: 48.3
+
+**Ad**: Düz bağırsağın zədələnmə və ya toxumasının yerli kəsiklə çıxarılması və ya destruksiyası
+
+**Uyğunluq**: 71.17%
+
+**Əsaslandırma**: Bu prosedur, düz bağırsaqda anormal toxuma və ya zədələnmələri aradan qaldırmaq üçün nəzərdə tutulub. Əgər bir insanın düz bağırsağında polip, kiçik şiş və ya başqa bir zədə varsa, bu cərrahi müdaxilə ilə həmin toxumalar çıxarılır və ya məhv edilir. Bu, adətən nəcisdə qan və ağrı kimi şikayətləri olan insanlarda tətbiq edilir. Beləliklə, bu əməliyyatın məqsədi bu problemlərin həll olunmasına yönəlib. Proktologiya sahəsi də bu tip əməliyyatlarla məşğul olur və müvafiq müayinə və müalicə üsullarını əhatə edir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.681
+
+**Kod**: 48.4
+
+**Ad**: Düz bağırsağın transanal rezeksiyası
+
+**Uyğunluq**: 70.56%
+
+**Əsaslandırma**: Düz bağırsağın transanal rezeksiyası əməliyyatı, düz bağırsaqda (rektumda) yaranan problemləri aradan qaldırmaq üçün edilir. Əsas səbəblərdən biri, xərçəng və ya böyük poliplərin müalicəsidir. Bu əməliyyat zamanı, həkimlər xüsusi alətlərdən istifadə edərək anus vasitəsilə düz bağırsağa çatır və problemli hissəni çıxarırlar. Axtarış sorğusunda qeyd olunan "nəcisdə qan" simptomu, rektumda potensial bir problem olduğuna işarə edir. Bu əməliyyatın seçilməsi, bu cür əlamətləri olan xəstələrdə düz bağırsaq xərçəngi və ya poliplərin aradan qaldırılması məqsədilə həyata keçirilə bilər. Beləliklə, əsas məqsəd, ciddi problemlərin qarşısını almaq və xəstənin vəziyyətini yaxşılaşdırmaqdır.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.678
+
+**Kod**: 48.25
+
+**Ad**: Düz bağırsağın açıq biopsiyası
+
+**Uyğunluq**: 70.14%
+
+**Əsaslandırma**: Düz bağırsağın açıq biopsiyası əməliyyatı, düz bağırsaq ya da bağırsaqla bağlı problemləri daha dəqiq diaqnoz etmək üçün seçilir. Bu, xüsusilə nəcisdə qan və düz bağırsaq ağrısı kimi əlamətlər olduğunda müayinə zamanı edilə bilər. Bəzən digər, daha az invaziv üsullar kifayət etmədikdə və konkret bir xəstəlikdən şübhələndikdə, həkimlər bu proseduru seçirlər ki, birbaşa məsələnin nə olduğunu daha yaxşı başa düşə bilsinlər və uyğun müalicəni təyin edə bilsinlər.
+
+----------------------------------------------------------------
