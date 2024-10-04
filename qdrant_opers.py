@@ -47,13 +47,13 @@ if OPENAI_API_KEY and COHERE_API_KEY:
         st.error(f"Failed to connect to Qdrant: {e}")
 
 
-def save_to_github(user_input, search_query, llm_output, github_token, github_repo):
+def save_to_github(user_input, search_query, llm_output, github_token):
     try:
         # Create a Github instance using the provided token
         g = Github(github_token)
 
         # Get the repository
-        repo = g.get_repo(github_repo)
+        repo = g.get_repo("jivishov/medaid")
 
         # Create a unique filename based on timestamp
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -466,9 +466,9 @@ def calculate_medical_relevance(result: Dict, search_query: str) -> float:
 
     return min(relevance_score, 1.0)  # Maksimum 100% qaytarın
 
-st.header("Enter Your Health Description")
+st.header("Pasientin vəziyyətini daxil edin")
 
-user_text = st.text_area("Describe your health condition and symptoms here:", height=150)
+user_text = st.text_area("Pasientin sağlamlıq vəziyyətini və simptomları daxil edin:", height=150)
 
 # # Optional: Data Ingestion Section
 # st.subheader("Data Ingestion (Optional)")
@@ -533,12 +533,11 @@ if st.button("Analiz et"):
         # Optional: Add a horizontal line to separate the results from other content
         st.markdown("---")
                 # After analysis is complete
-        repo_path = "medaid"  # Replace with your actual Git repo path
+
         llm_output = formatted_output_openai + "\n\n" + formatted_output_cohere
         github_token=st.secrets["medaid_streamlit"]
-        github_repo="medaid"
-        if github_token and github_repo:
-            save_result = save_to_github(user_text, search_query, llm_output, github_token, github_repo)
+        if github_token:
+            save_result = save_to_github(user_text, search_query, llm_output, github_token)
             st.success(save_result)
         else:
             st.warning("GitHub token or repository not provided. Results not saved to GitHub.")
