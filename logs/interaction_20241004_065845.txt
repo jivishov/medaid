@@ -1,0 +1,155 @@
+User Input:
+Dəri quruluğu, dırnaq qırılma,  arıqlama, saç tökülmə, boğulma
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Endokrin sistem xəstəlikləri və qalxanvari vəz cərrahiyyəsi
+
+Açar sözlər və əsas anlayışlar:
+1. Dəri quruluğu
+2. Dırnaq qırılması
+3. Arıqlama
+4. Saç tökülməsi
+5. Boğulma
+
+Bu simptomlar bir çox hallarda qalxanvari vəzin fəaliyyəti ilə əlaqəli ola bilər. Xüsusilə hipertireoz və ya hipotireoz kimi qalxanvari vəz pozğunluqları bu əlamətləri göstərə bilər. Buna görə də, endokrin sistem xəstəlikləri və qalxanvari vəz ilə əlaqəli cərrahi prosedurlar üçün tibbi xidmət kodlarını axtarmaq məqsədəuyğun olar.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.3
+
+**Kod**: 0.42
+
+**Ad**: Qida borusunun açıq biopsiyası
+
+**Uyğunluq**: 49.14%
+
+**Əsaslandırma**: Qida borusunun açıq biopsiyası proseduru qida borusundan toxuma nümunəsi götürmək üçün aparılır. Bu, qida borusunda xərçəng və ya digər xəstəliklərin olub olmadığını yoxlamaq üçün edilir. Toxuma nümunəsi analiz olunaraq, xəstənin qida borusunda hansısa ciddi bir problem və ya xəstəlik, məsələn xərçəng varmı, yoxsa başqa bir səbəbdən narahatlıq yaranıb, onu müəyyən etməyə kömək edir. Bu halda, endokrin sistem və qalxanvari vəz ilə əlaqəli simptomlar axtarılırsa, qida borusunun açıq biopsiyası, həmin əlamətlərin qida borusu ilə bağlı olmadığına dair daha dəqiq bir diaqnoz qoyulmasına kömək edər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.1304
+
+**Kod**: 85
+
+**Ad**: Mastotomiya (Süd vəzinin dərisinin kəsilməsi. Mammotomiya)
+
+**Uyğunluq**: 46.93%
+
+**Əsaslandırma**: Mastotomiya proseduru süd vəzinin dərisinin kəsilməsi deməkdir və bu, diagnostik və ya müalicəvi səbəblərlə həyata keçirilə bilər. Tayfin qalxanvari vəz pozğunluqları (məsələn, hipertireoz və ya hipotireoz) müəyyən simptomlara (dəri quruluğu, dırnaq qırılması, arıqlama, saç tökülməsi, boğulma) səbəb ola bilər. Bu prosedur seçilmiş ola bilər çünki süd vəzində hər hansı bir problemi aşkarlamaq və ya müalicə etmək məqsədi daşıyır, lakin qalxanvari vəz və endokrin dəyişikliklər də prosesə təsir edə bilər, buna görə belə xəstəliklərin aydınlaşdırılması önəmlidir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.34
+
+**Kod**: 1.53
+
+**Ad**: Mədənin açıq biopsiyası
+
+**Uyğunluq**: 46.88%
+
+**Əsaslandırma**: Mədənin açıq biopsiyası proseduru, mədədəki xərçəngi və ya digər xəstəlikləri dəqiq şəkildə diaqnoz etmək üçün edilir. Bu prosedur vasitəsilə mədədən bir toxuma nümunəsi götürülür və bu nümunə laboratoriyada analiz edilir. Bu, həkimlərin mədə xəstəlikləri haqqında daha dəqiq məlumat əldə etməsinə kömək edir. Beləliklə, əgər bir şəxsdə mədə ilə bağlı ciddi və diaqnozu dəqiqlik tələb edən simptomlar varsa, bu prosedur onun səbəbini anlamaq və müvafiq müalicə planlaşdırmaq üçün seçilə bilər.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.974
+
+**Kod**: 71.71
+
+**Ad**: Vulvanın və ya aralığın cırıqlarının tikilməsi
+
+**Uyğunluq**: 46.72%
+
+**Əsaslandırma**: Bu tibbi prosedur, vulvanın və ya aralığın cırıqlarının tikilməsi, adətən o bölgədə meydana gələn zədələnmələri və ya cırılmaları düzəltmək üçün seçilir. Xarici cinsiyyət orqanları və ya aralıq nahiyəsində cırılmalar həm fiziki narahatlığa səbəb ola bilər, həm də infeksiyalara yol aça bilər. Prosedur vasitəsilə bu zədələr cərrahi yolla tikilir və bu da yaranın sağalmasına və gələcəkdə problemlərin qarşısını almağa kömək edir. Bu yanaşma, xüsusilə doğuş sonrası və ya travma sonrası mayalanmış dərinin bərpasında təsirli ola bilər. Axtarış sorğusunda qeyd edilən endokrin sistem xəstəlikləri və qalxanvari vəz ilə bağlı simptomlar prosedurla birbaşa əlaqədar deyil, çünki onlar daha çox daxili orqanların funksiyası ilə əlaqəlidir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.2
+
+**Kod**: 0.41
+
+**Ad**: Ezofaqostomiya
+
+**Uyğunluq**: 46.71%
+
+**Əsaslandırma**: Ezofaqostomiya adlı prosedur, insanların qidalanma və ya nəfəs alma problemi olduğu zaman tətbiq edilən bir cərrahi əməliyyatdır. Bu əməliyyat, qida borusunun xaricə açılmasını təmin edir, yəni qidanın və ya hava axınının asanlıqla keçməsinə kömək edir. Bu, qidalanma borusu və boğazla əlaqəli ciddi çətinlikləri olan xəstələrdə həyata keçirilir. Endokrin sistem xəstəlikləri və qalxanvari vəz ilə əlaqəli əlamətlər (məsələn, boğulma) bu kimi proseduralara yol açmasa da, qidalanma və nəfəs alma problemləri daha çox mekanik və struktur problemlərlə əlaqəlidir və ezofaqostomiya məhz bu problemlərin həlli üçün istifadə edilir.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.383
+
+**Kod**: 34.59
+
+**Ad**: Plevranın üzərində aparılan digər kəsik növləri (Plevral zədələnmənin kəsiklə çıxarılması)
+
+**Uyğunluq**: 65.45%
+
+**Əsaslandırma**: Verilən məlumatlar və axtarış sorğusu arasında birbaşa əlaqə yoxdur. Plevral zədələnmənin kəsiklə çıxarıldığı əməliyyat ağciyərləri əhatə edən pərdədəki problemləri, məsələn şişləri və ya iltihabı müalicə etmək üçün seçilir. Digər tərəfdən, axtarış sorğusu endokrin sistem xəstəlikləri və xüsusilə qalxanvari vəzin problemi ilə bağlıdır. Bu sorğu qalxanvari vəzin fəaliyyəti ilə bağlı simptomları (dəri quruluğu, dırnaq qırılması, arıqlama, saç tökülməsi, boğulma) izah edir və bu səbəbdən həkimlər endokrin problemləri olan xəstələr üçün xüsusi tibbi prosedurlar axtara bilərlər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.520
+
+**Kod**: 38.62
+
+**Ad**: Damarın digər kəsiklə çıxarılması, baş və boynun digər damarları
+
+**Uyğunluq**: 65.09%
+
+**Əsaslandırma**: Bu tibbi prosedur baş və boyun bölgəsindəki anormal damar strukturlarını, məsələn, hemangiomaları çıxarmaq üçün istifadə olunur. Bu cür strukturlar qanaxma, ağrı və ya estetik problemlərə səbəb ola bilər. Əməliyyat vasitəsilə bu problemlər həll edilir. Kəsik açılaraq damar strukturunun ehtiyatla çıxarılması qanaxma riskini azaltmağa və estetik görünüşü yaxşılaşdırmağa kömək edir. Sorğuda qalxanvari vəz və endokrin xəstəliklərdən bəhs edilsə də, hər ikisi tibbi müdaxilə tələb oluna bilən, lakin fərqli sahələrdə olan vəziyyətlərdir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.1144
+
+**Kod**: 80.6
+
+**Ad**: Dizin oraqvari qığırdağının kəsiklə çıxarılması (Meniskektomiya - oynaq siçanının çıxarılması)
+
+**Uyğunluq**: 64.88%
+
+**Əsaslandırma**: Meniskektomiya proseduru diz oynağında zədələnmiş oraqvari qığırdaqı çıxarmaq üçün aparılır. Bu cərrahi əməliyyat diz ağrısını azaltmaq və hərəkətdə olan məhdudiyyətləri aradan qaldırmaq məqsədilə seçilir. Əgər dizdəki meniskus zədələnmişsə, hərəkət zamanı ağrı və narahatlıq yarada bilər, bu səbəbdən də bu əməliyyat həmin problemləri yüngülləşdirmək üçün uyğun sayılır. Axtarış sorğusu isə qalxanvari vəz və endokrin sistem xəstəlikləri ilə əlaqədardır, bu problemlər fərqli simptomlara səbəb ola bilər, lakin burada meniskektomiya ilə əlaqəsi yoxdur.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.799
+
+**Kod**: Tətbiq edilmir
+
+**Ad**: Karbunkul və fleqmonada əməliyyat (orta)
+
+**Uyğunluq**: 64.41%
+
+**Əsaslandırma**: Bu əməliyyat, karbunkul və fleqmon kimi daha geniş yayılmış dərin irinli infeksiyaları müalicə etmək məqsədilə seçilmişdir. Bu infeksiyalar ciddi problem yarada bilər və dəri və yumşaq toxumalara ciddi ziyan vurur. Həkim bu əməliyyat zamanı infeksiya ocağını açır, yığılmış irini boşaldır və zədələnmiş toxumaları təmizləyir. "Orta" səviyyə, infeksiyanın daha geniş bir sahəyə yayıldığını göstərir. Bu prosedura, infeksiyanın ciddi olmasını və onun dərhal müalicə edilməsinin vacibliyini vurğulayır.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.366
+
+**Kod**: 33.34
+
+**Ad**: Torakoplastika
+
+**Uyğunluq**: 64.32%
+
+**Əsaslandırma**: Torakoplastika əməliyyatı döş qəfəsinin formasını dəyişdirmək və ya düzəltmək üçün aparılır. Bu prosedur əsasən ağciyər xəstəlikləri zamanı ağciyərin funksiyasını yaxşılaşdırmaq və ya döş qəfəsi deformasiyalarını düzəltmək üçün seçilir. Yəni, torakoplastika qalxanvari vəz ilə bağlı endokrin sistem problemləri ilə birbaşa əlaqəli deyil. Axtarış sorğusunda qeyd edilən simptomlar (dəri quruluğu, dırnaq qırılması, arıqlama, saç tökülməsi, boğulma) əsasən qalxanvari vəz problemləri ilə bağlıdır, bu səbəbdən də endokrinologiya və qalxanvari vəz cərrahiyyəsi ilə bağlı tibbi xidmətlər axtarılmalıdır. Torakoplastika isə döş qəfəsinə aid spesifik problemləri həll etmək üçün istifadə olunur.
+
+----------------------------------------------------------------
