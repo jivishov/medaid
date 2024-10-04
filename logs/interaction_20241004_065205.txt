@@ -1,0 +1,155 @@
+User Input:
+Qarının sağ yuxarı küncündə olan ağrı, ürəkbulanma, qusma
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Öd kisəsi cərrahiyyəsi və ya xolesistektomiya
+
+Açar sözlər və əsas anlayışlar:
+1. Qarının sağ yuxarı küncü
+2. Ağrı
+3. Ürəkbulanma
+4. Qusma
+5. Öd kisəsi xəstəliyi
+
+Bu simptomlar öd kisəsi problemlərinə işarə edə bilər, xüsusilə öd daşları və ya xolesistit. Buna görə də, cərrahi müdaxilə tələb oluna bilər. Xolesistektomiya (öd kisəsinin çıxarılması) bu vəziyyət üçün ən çox istifadə olunan cərrahi prosedurdur.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.725
+
+**Kod**: 51.22
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 67.33%
+
+**Əsaslandırma**: Xolesistektomiya, öd kisəsi ilə bağlı olan ciddi problemləri – məsələn, öd daşları, xroniki öd kisəsi iltihabı (xolesistit) və ya öd kisəsi xərçəngi kimi – müalicə etmək üçün aparılan bir əməliyyatdır. Öd kisəsi çıxarıldıqda, bu problemlərin səbəb olduğu ağrı, ürəkbulanma və qusma kimi simptomlar aradan qaldırılır. Yəni, bu əməliyyat ağrısız və daha sağlam bir həyat təmin etmək məqsədilə seçilir. Əgər kimsə qarının sağ yuxarı küncündə narahatlıq, ağrı və digər qeyd olunan simptomlardan əziyyət çəkirsə, həkimlər tez-tez xolesistektomiyanı məsləhət görə bilərlər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.154
+
+**Kod**: 9.44
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 66.80%
+
+**Əsaslandırma**: Xolesistektomiya, öd kisəsinin çıxarılması əməliyyatıdır. Bu prosedur, adətən öd kisəsində yaranan problemlər, məsələn, öd daşları və ya xroniki xolesistit nəticəsində yaranan ağrı, ürəkbulanma və qusma kimi simptomların müalicəsi üçün seçilir. Bu simptomlar, qarının sağ yuxarı küncündə ağrı kimi problemlərə səbəb olan öd kisəsi xəstəliyindən xəbər verə bilər. Cərrahiyyə müdaxiləsi, xüsusən xolesistektomiya, bu problemlərin həlli üçün ən çox istifadə olunan üsul sayılır.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.731
+
+**Kod**: 51.61
+
+**Ad**: Sistik axarın qalığının kəsiklə çıxarılması (Eksiziya)
+
+**Uyğunluq**: 64.91%
+
+**Əsaslandırma**: Bu əməliyyat, yəni sistik axarın qalığının kəsiklə çıxarılması (eksiziya), öd kisəsi çıxarıldıqdan sonra (xolesistektomiya) qalan hissədə problemlər yarandığı zaman seçilir. Məsələn, əgər öd kisəsi əməliyyatından sonra hələ də öd daşları və ya iltihab kimi problemlər varsa, qalan sistik axar hissəsi çıxarılaraq bu problemlər həll olunur. Bu, ümumiyyətlə, qarının sağ yuxarı küncündə ağrı, ürəkbulanma və qusma kimi simptomları olan xəstələrdə edilir, çünki bu simptomlar öd yollarının xəstəliyinə işarə edir və cərrahi müdaxiləni tələb edə bilər.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.160
+
+**Kod**: 9.83
+
+**Ad**: Sistik axarın qalığının kəsiklə çıxarılması (Eksiziya)
+
+**Uyğunluq**: 61.37%
+
+**Əsaslandırma**: Bu prosedur, yəni "sistik axarın qalığının kəsiklə çıxarılması (Eksiziya)", xolesistektomiya adlanan əməliyyatdan sonra görüldüyündə problemlər yaranan hallarda seçilir. Xolesistektomiya zamanı öd kisəsi çıxarılır, amma bəzi hallarda sistik axarın bir hissəsi qalır və bu da zamanla narahatlığa səbəb ola bilər. Əgər xəstədə sağ yuxarı qarın bölgəsində ağrı, ürəkbulanma və qusma kimi xolesistit və ya öd daşı əlamətləri olarsa, bu hallar öd kisəsi ilə əlaqəli problemləri göstərə bilər və bu qalığın çıxarılması vacib ola bilər. Prosedur, yaranan problemlərin həll edilməsi üçün bu qalığın cərrahi yolla çıxarılmasıdır.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.459
+
+**Kod**: 37.33
+
+**Ad**: Ürəyin digər zədələnmə və ya toxumasının kəsiklə çıxarılması, açıq giriş
+
+**Uyğunluq**: 57.35%
+
+**Əsaslandırma**: Bu əməliyyat, "Ürəyin digər zədələnmə və ya toxumasının kəsiklə çıxarılması, açıq giriş", ürəkdəki anormal toxumaların və ya zədələnmələrin çıxarılması üçün seçilmişdir. Əməliyyatın məqsədi şiş, çapıq toxuması və ya patoloji toxumanı aradan qaldırmaqdır. Bu, ürəyin normal fəaliyyətini bərpa etmək və ya hər hansı ciddi sağlamlıq probleminin qarşısını almaq üçün vacibdir. Öd kisəsi ilə əlaqəli axtarış sorğusu ayrı bir mövzudur və öd kisəsi problemləri üçün xolesistektomiya əməliyyatı tövsiyə edilir, çünki bu vəziyyətlər öd daşları və ya öd kisəsi iltihabı kimi problemlərdən qaynaqlana bilər.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.725
+
+**Kod**: 51.22
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 85.52%
+
+**Əsaslandırma**: Xolesistektomiya əməliyyatı, öd kisəsi problemləri yaşandıqda, məsələn, öd daşları və ya xroniki xolesistit olduğu hallarda edilir. Öd kisəsindəki daşlar və ya xroniki iltihab səbəbindən insanlar qarının sağ yuxarı küncündə ağrı, ürəkbulanma və qusma kimi əlamətlər hiss edə bilərlər. Bu problemlər ciddi narahatlıq yarada və sağlamlığı təhdid edə bilər, ona görə də öd kisəsinin çıxarılması, yəni xolesistektomiya əməliyyatı, bu narahatlıqlardan qurtulmanın effektiv yoludur.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.154
+
+**Kod**: 9.44
+
+**Ad**: Xolesistektomiya
+
+**Uyğunluq**: 83.31%
+
+**Əsaslandırma**: Xolesistektomiya, öd kisəsinin çıxarılması əməliyyatıdır və bu prosedur, öd kisəsi ilə bağlı problemlərin, məsələn öd daşları və xolesistit kimi xəstəliklərin müalicəsi üçün seçilir. Açar sözlərdən və axtarış sorğusundan göründüyü kimi, öd kisəsi problemi ilə əlaqəli bəzi ümumi simptomlar qarının sağ yuxarı küncündə ağrı, ürəkbulanma və qusma ilə əlaqəli ola bilər. Bu simptomlar çox vaxt öd daşlarının və ya öd kisəsinin iltihabı olan xolesistitin simptomlarıdır. Belə vəziyyətlərdə, öd kisəsinin problemi effektiv şəkildə həll etmək üçün xolesistektomiya adlanan əməliyyat lazım ola bilər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.726
+
+**Kod**: 51.23
+
+**Ad**: Laparoskopik xolesistektomiya
+
+**Uyğunluq**: 79.55%
+
+**Əsaslandırma**: Laparoskopik xolesistektomiya, öd kisəsini çıxarmaq üçün minimal invaziv bir əməliyyat üsuludur. Öd kisəsi problemləri, məsələn, öd daşları, kəskin ağrı, ürəkbulanma və qusma kimi simptomlara səbəb ola bilər. Bu problemlər yarandıqda və ya müalicə tələb edildikdə, həkimlər öd kisəsinin çıxarılmasını məsləhət görə bilərlər. Laparoskopik üsulla aparılan bu əməliyyat daha kiçik kəsiklərlə həyata keçirildiyi üçün, ənənəvi açıq cərrahiyyə ilə müqayisədə daha az ağrı verir və xəstə daha tez sağalır. Beləliklə, bu metod seçilmişdir ki, xəstə daha rahat və tez bir şəkildə normal həyatına geri dönə bilsin.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.731
+
+**Kod**: 51.61
+
+**Ad**: Sistik axarın qalığının kəsiklə çıxarılması (Eksiziya)
+
+**Uyğunluq**: 78.44%
+
+**Əsaslandırma**: Bu əməliyyat öd kisəsi çıxarıldıqdan sonra qalan sistik axar hissəsini çıxarmaq üçün aparılır. Xolesistektomiya zamanı öd kisəsi götürülür, lakin bəzən qalan axar hissəsində daşlar və ya iltihab problemi baş verə bilər. Sistik axarın qalığının kəsilməsi məhz bu kimi problemləri aradan qaldırmaq üçün edilir. Prosedur əsasən qarının sağ yuxarı küncündə ağrı, ürəkbulanma, qusma kimi simptomlar olduğunda nəzərə alına bilər, çünki bu simptomlar öd yollarındakı problemlərə işarə edə bilər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.151
+
+**Kod**: 9
+
+**Ad**: Öd kisəsinin perkutan aspirasiyası (Drenaj üçün perkutan xolesistotomiya)
+
+**Uyğunluq**: 77.65%
+
+**Əsaslandırma**: Öd kisəsinin perkutan aspirasiyası proseduru, dərhal müdaxilə tələb edən təcili vəziyyətlərdə, məsələn, kəskin xolesistit və ya öd kisəsi empieması zamanı istifadə olunur. Bu prosedur, qarının sağ yuxarı küncündə ağrı, ürəkbulanma və qusma kimi simptomlardan əziyyət çəkən və öd kisəsində problemlərin olduğu hallarda cərrahi müdaxilə olmadan öd kisəsinə müvəqqəti olaraq rahatlıq gətirmək üçün aparılır. Yəni, əməliyyat mümkün olmadıqda və ya riskli olduqda istifadə edilən bir prosedurdur və öd kisəsindəki gərginliyi azaltmaq məqsədi daşıyır.
+
+----------------------------------------------------------------
