@@ -1,0 +1,154 @@
+User Input:
+sidik kisəsi sancı və ağrılarım var. Bayıra getməyə çətinlik çəkirəm.
+
+LLM Generated Search Query:
+Açar sözlər və əsas anlayışlar:
+- Sidik kisəsi
+- Sancı
+- Ağrı
+- Sidik ifrazı çətinliyi
+
+Təklif olunan axtarış sorğusu:
+
+Sidik kisəsi xəstəlikləri cərrahi müalicəsi
+
+Bu sorğu sidik kisəsi ilə əlaqəli cərrahi prosedurları və müvafiq tibbi xidmət kodlarını tapmağa kömək edə bilər. Sidik kisəsi ağrıları və sidik ifrazı çətinliyi müxtəlif səbəblərdən ola bilər, məsələn, sidik kisəsi daşları, iltihab və ya digər patologiyalar. Cərrahi müdaxilə tələb oluna biləcəyi üçün, cərrahi prosedurlarla bağlı kodları axtarmaq məqsədəuyğundur.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.856
+
+**Kod**: 57.89
+
+**Ad**: Sidik kisəsinin digər bərpa növləri (Sidik kisəsi sallanmaları)
+
+**Uyğunluq**: 65.27%
+
+**Əsaslandırma**: Sidik kisəsinin sallanması və ya digər problemləri səbəbindən bəzən sidik saxlamada çətinliklər və ya ağrılar yarana bilər. Bu cür vəziyyətlərdə cərrahi müdaxilə lazım gəlir ki, kişiçinin funksiyası yaxşılaşdırılsın və xəstənin narahatlığı azalsın. Cərrahi prosedura sidik kisəsinin yerini və funksiyasını bərpa etməyə kömək edir. Bu səbəbdən, "Sidik kisəsinin digər bərpa növləri" proseduru, bu kimi problemləri həll etmək və xəstənin həyat keyfiyyətini artırmaq üçün seçilir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.852
+
+**Kod**: 57.85
+
+**Ad**: Sistouretroplastika və sidik kisəsinin boynunun plastik bərpası
+
+**Uyğunluq**: 61.92%
+
+**Əsaslandırma**: Sistouretroplastika və sidik kisəsinin boynunun plastik bərpası proseduru, sidik kisəsində və sidik kanalında yaranmış problemləri cərrahi yolla düzəltmək üçün seçilir. Bu əməliyyat, sidik saxlama funksiyasını yaxşılaşdırmaq və sidik ifrazı çətinliyini aradan qaldırmaq məqsədilə aparılır. Prosedur, sidik kisəsi ilə bağlı sancılar, ağrı və digər narahatlıqları azaltmağa kömək edə bilər. Misal üçün, sidik kisəsi daşları və ya iltihab kimi problemlər əməliyyatla düzəldilə bilər. Bu səbəbdən, cərrahi müdaxilə və əlaqədar kodlar haqqında axtarış etmək faydalıdır.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.847
+
+**Kod**: 57.7
+
+**Ad**: Total sistektomiya
+
+**Uyğunluq**: 61.47%
+
+**Əsaslandırma**: Total sistektomiya proseduru, yəni sidik kisəsinin tam cərrahi yolla çıxarılması, adətən sidik kisəsi xərçənginin irəliləmiş mərhələsində və ya ciddi sidik kisəsi xəstəliklərində tətbiq olunur. Bu prosedur seçilir, çünki xərçəng ya da digər ciddi xəstəliklər sidik kisəsində yayılıb və ya zərər verib, belə olan halda sidik kisəsinin tamamilə çıxarılması xəstəliyin daha da irəliləməsinin qarşısını almağa kömək edə bilər. Axtarış sorğusundakı "sidik kisəsi ağrıları və sidik ifrazı çətinliyi" bu cür ciddi problemasiyalardan biri ilə əlaqəli ola bilər və buna görə də cərrahi müdaxilə tələb oluna bilər. Total sistektomiya bu problemlərin həllini təmin edə bilən bir üsuldur.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.839
+
+**Kod**: 57.1
+
+**Ad**: Sistotomiya və sistostomiya (açıq üsulla)
+
+**Uyğunluq**: 61.32%
+
+**Əsaslandırma**: Sistotomiya və sistostomiya əməliyyatları, sidik kisəsində müxtəlif problemləri həll etmək üçün seçilir. Sidik kisəsində ağrı, sancı və sidik ifrazı çətinliyi kimi şikayətlər sidik kisəsi daşları, iltihab və ya digər patologiyalar səbəbindən yaranır. Bu problemləri həll etmək üçün bəzən cərrahi müdaxilələr lazımdır. Sistotomiya ilə sidik kisəsi açılır, sistostomiya isə sidik kisəsindən dəriyə süni bir çıxış yaradır. Bu cərrahi üsullar sidik kisəsi ilə bağlı ciddi şişlər və ya obstruksiyalar olduğu zaman müalicə məqsədilə tətbiq olunur. Həkimlər sidik kisəsinin işini yaxşılaşdırmaq və ağrıları aradan qaldırmaq üçün bu prosedurları tövsiyə edə bilərlər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.984
+
+**Kod**: 75.61
+
+**Ad**: Sidik kisəsinin və uretranın cari mamalıq cırığının bərpası
+
+**Uyğunluq**: 61.22%
+
+**Əsaslandırma**: Bu prosedur, doğuş zamanı qadınlarda sidik kisəsi və sidik kanalında yaranan cırılmaların təmir edilməsi üçün seçilir. Doğuş zamanı bəzi hallarda bu nahiyələrdə zədələnmələr baş verə bilər və bu da gələcəkdə ağrı və sidik ifrazı çətinliyi kimi problemlərə yol aça bilər. Belə halların qarşısını almaq və sağlamlığı bərpa etmək üçün cərrahi müdaxilə, yəni yaranan cırılmaların tikilməsi zəruri ola bilər. Bu, qadının normal həyatına və funksionallığına geri dönməsi üçün vacibdir.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.856
+
+**Kod**: 57.89
+
+**Ad**: Sidik kisəsinin digər bərpa növləri (Sidik kisəsi sallanmaları)
+
+**Uyğunluq**: 75.70%
+
+**Əsaslandırma**: Sidik kisəsi sallanmaları, sidik kisəsinin düzgün mövqeyini itirməsi və aşağıya doğru sallanması ilə xarakterizə olunur. Bu problem sidik saxlama çətinliyi və narahatlıq yarada bilər. Seçilmiş cərrahi prosedurun məqsədi sidik kisəsinin normal funksiyasını bərpa etmək və xəstənin narahatlığını aradan qaldırmaqdır. Bu prosedurlar həyata keçməmişdən öncə sidik kisəsi xəstəlikləri, ağrı və sidik ifrazı çətinliyi kimi əlamətlər yaxşılaşdırılır ki, bu da xəstənin həyat keyfiyyətini artırır. Cərrahi müalicə, problem ciddi olduqda və digər dərman və ya terapiya vasitələri ilə həll olunmadıqda tələb edilə bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.841
+
+**Kod**: 57.19
+
+**Ad**: Sistolitotomiya (açıq və ya endoskopik)
+
+**Uyğunluq**: 75.57%
+
+**Əsaslandırma**: Sistolitotomiya əməliyyatı seçilir, çünki bu üsul sidik kisəsində böyük və ya mürəkkəb quruluşda olan daşları çıxarmaq üçün istifadə olunur. Sidik kisəsində daşlar olduğunda, bu, ağrıya, sancılara və sidik ifrazında çətinliklərə səbəb ola bilər. Əgər daşlar çox böyükdürsə və ya mürəkkəb bir şəkildə yerləşirsə, onları dərmanla və ya sadə prosedurlarla aradan qaldırmaq çətin ola bilər. Bu zaman açıq və ya endoskopik cərrahi müdaxilə lazım gələ bilər ki, daşlar tamamilə və təhlükəsiz şəkildə çıxarılsın. Sistolitotomiya əməliyyatı, bu kimi hallarda, xəstənin rahatlaması və simptomların azalması üçün səmərəli bir həll yolu təqdim edir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.839
+
+**Kod**: 57.1
+
+**Ad**: Sistotomiya və sistostomiya (açıq üsulla)
+
+**Uyğunluq**: 75.35%
+
+**Əsaslandırma**: Bu prosedur, sidik kisəsi ilə bağlı problemlərin həlli üçün seçilir. Sidik kisəsində ağrılar və sidik ifrazı çətinliyi kimi simptomlar, məsələn, sidik kisəsi daşları və ya iltihab kimi səbəblərdən qaynaqlana bilər. Sistotomiya sidik kisəsini açmaq üçün kəsik etməyi, sistostomiya isə sidik kisəsindən dəridən süni çıxış yaratmağı əhatə edir. Bu cərrahi üsullar, sidik kisəsində toplanan problemləri aradan qaldırmaq və normal sidik axınını bərpa etmək üçün həyata keçirilir. Beləliklə, bu kimi prosedurlarının seçimi ağrı və sidik ifrazı çətinliklərini yüngülləşdirə və ya aradan qaldıra bilər.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.286
+
+**Kod**: 21.02
+
+**Ad**: Sidik kisəsinin sfinkterotomiyası
+
+**Uyğunluq**: 73.76%
+
+**Əsaslandırma**: Sidik kisəsinin sfinkterotomiyası adlanan cərrahi əməliyyat, əsasən sidik axınını çətinləşdirən problemlərlə mübarizə aparmaq üçündür. Sidik kisəsinin çıxışındakı sfinkter adlanan sıxıcı əzələ düzgün işləmədikdə, sidik axını məhdudlaşa bilər və bu da ağrıya və sancılara səbəb ola bilər. Bu əməliyyatla həmin sfinkter kəsilərək, sidik axını asanlaşdırılar və problem həll edilə bilər. Bu, sidik kisəsi ilə bağlı ciddi problemlərin aradan qaldırılması üçün seçilən bir müalicə üsuludur.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.827
+
+**Kod**: 56.2
+
+**Ad**: Ureterotomiya (Litotomiya açıq)
+
+**Uyğunluq**: 73.00%
+
+**Əsaslandırma**: Ureterotomiya (Litotomiya açıq) proseduru sidik axarında olan iri və ya mürəkkəb daşları çıxarmaq üçün aparılan açıq cərrahi əməliyyatdır. Bu seçilən prosedurun məqsədi, sidik axarındakı daşların yaratdığı ağrı, sancı və sidik ifrazı çətinliyini aradan qaldırmaqdır. Böyük və mürəkkəb daşlar başqa yollarla çıxarıla bilmədiyi üçün, bu cərrahi əməliyyat daşları effektiv şəkildə çıxarmağın bir yoludur. Bu əməliyyatın seçilməsi, daşların ölçüsü və mürəkkəb metodu səbəbindən daha açıq bir giriş tələb etdiyini göstərir.
+
+----------------------------------------------------------------
