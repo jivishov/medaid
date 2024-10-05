@@ -1,0 +1,155 @@
+User Input:
+Ayaqda şişmə, qasıq nahiyəsində ağrı
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Ayaqda şişmə və qasıq nahiyəsində ağrı ilə əlaqəli cərrahi prosedurlar
+
+Əsas anlayışlar və açar sözlər:
+1. Ayaq
+2. Şişmə
+3. Qasıq nahiyəsi
+4. Ağrı
+5. Cərrahi prosedur
+
+Bu sorğu və açar sözlər, xəstənin təsvir etdiyi simptomlarla əlaqəli ola biləcək cərrahi prosedurların tibbi xidmət kodlarını və təsvirlərini tapmağa kömək edə bilər. Xüsusilə, ayaq və qasıq nahiyəsində aparılan cərrahi əməliyyatlar, damar cərrahiyyəsi və ya limfa sistemi ilə əlaqəli prosedurlar axtarışda nəzərə alına bilər.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.516
+
+**Kod**: 38.49
+
+**Ad**: Damarın dəyişdirilməsi ilə birlikdə rezeksiyası, aşağı ətraf venaları
+
+**Uyğunluq**: 56.55%
+
+**Əsaslandırma**: Bu cərrahi əməliyyat, ayağında ciddi damar zədələnməsi və ya xəstəliyi olan insanlarda görülən problemləri həll etmək üçün həyata keçirilir. Prosedur, zədələnmiş damar hissəsini çıxarıb, həmin yerə süni damar və ya bədənin başqa bir hissəsindən alınmış damar parçalarını yerləşdirməklə aparılır. Bu əməliyyat sayəsində, xəstənin qan axını yaxşılaşır, ürəyə qanın qayıtma prosesi daha yaxşı baş verir və ayaqlardakı şişmə azalır. Sorğu, xüsusilə ayaq və qasıq nahiyəsində şişmə və ağrı olan xəstələr üçün bu cür cərrahi müdaxilələrin nəyə görə seçildiyini anlamalarına kömək edir. Bu prosedur, damar cərrahiyyəsi sahəsində tətbiq edilən bir müalicə üsuludur.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.153
+
+**Kod**: 9.4
+
+**Ad**: Öd kisəsinin və ya öd yollarının açıq biopsiyası
+
+**Uyğunluq**: 56.50%
+
+**Əsaslandırma**: Öd kisəsinin və ya öd yollarının açıq biopsiyası proseduru, ümumiyyətlə, bu orqanlarda şiş və ya digər xəstəliklərdən şübhələnildikdə istifadə olunur. Prosedur zamanı bir cərrah öd kisəsindən və ya öd yollarından bir parça toxuma götürərək müayinə edir. Bu, xəstəliklərin dəqiq diaqnozu üçün vacibdir, belə ki, lazımi müalicə planı hazırlana bilər. Axtarış sorğusundakı "ayaqda şişmə" və "qasıq nahiyəsində ağrı" simptomlarından hələ birbaşa əlaqə göstərilməsə də, bəzi hallarda bu simptomlar öd kisəsi və öd yolları ilə problemlərin işarəsi ola bilər. Problemin həll olunması üçün cərrahi prosedurların icrası zəruri ola bilər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.1120
+
+**Kod**: 79.98
+
+**Ad**: Sümük zədələnməsinin müəyyən edilməmiş əməliyyatı, pəncə ayaq barmağı
+
+**Uyğunluq**: 55.85%
+
+**Əsaslandırma**: Bu əməliyyat, pəncə və ayaq barmağında yaranmış sümük zədələnmələrini, məsələn, sınıqları və çıxıqları müalicə etmək üçün seçilib. Sorğuda ayaqda şişmə və qasıq nahiyəsində ağrı kimi simptomlar qeyd olunub, bu da sümük problemləri və zədələnmələrin əlaməti ola bilər. Əgər bu problemlər sümük zədələnməsi ilə əlaqəlidirsə, bu cür cərrahi müdaxilə lazım ola bilər. Belə əməliyyatlar, ayaqda düzgün funksiyanı bərpa etmək və ağrını aradan qaldırmaq üçün vacibdir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.526
+
+**Kod**: 38.68
+
+**Ad**: Damarın digər kəsiklə çıxarılması, aşağı ətraf arteriyaları
+
+**Uyğunluq**: 55.52%
+
+**Əsaslandırma**: Bu prosedur, ayaq və baldır bölgəsindəki arteriyalarda yaranan anormal strukturları çıxarmaq üçün seçilib. Belə strukturlar qan axınını azalda bilər və nəticədə ayaqda ağrıya və problemlərə səbəb ola bilər. Prosedur zamanı həkim dəridə kəsik açaraq problemli arteriya hissəsini çıxarır. Bu əməliyyatdan sonra qan axını yaxşılaşır, ağrı azalır və ayağın ümumi sağlamlığı qorunur. Ayaqda şişmə və qasıq nahiyəsində ağrı problemi olan insanlar üçün bu prosedur, damar problemlərini həll etmək üçün seçilə bilər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.497
+
+**Kod**: 38.18
+
+**Ad**: Endarterektomiya, aşağı ətraf arteriyaları
+
+**Uyğunluq**: 54.87%
+
+**Əsaslandırma**: Endarterektomiya, aşağı ətraf arteriyaları üçün seçilən bir əməliyyatdır, çünki bu, ateroskleroz adlanan vəziyyətdə ayaq və baldır bölgəsindəki arteriyalarda yığılmış piləkləri təmizləməyə kömək edir. Bu piləklər arteriyaların daralmasına səbəb ola bilər və nəticədə ayağın qan dövranı pisləşir. Bu da öz növbəsində ayaqda şişmə, qasıq nahiyəsində ağrı, yaraların gec sağalması kimi problemlərə yol aça bilər. Əməliyyat, bu problemləri aradan qaldırmaq, ayağa qan axını bərpa etmək və simptomları azaltmaq məqsədi daşıyır. Bu səbəbdən, xəstənin ayaq və qasıq ağrısı kimi simptomları olduğu zaman bu cərrahi prosedur təsirli bir həll olaraq seçilə bilər.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.526
+
+**Kod**: 38.68
+
+**Ad**: Damarın digər kəsiklə çıxarılması, aşağı ətraf arteriyaları
+
+**Uyğunluq**: 70.56%
+
+**Əsaslandırma**: Bu prosedur seçilib, çünki ayaq və baldır bölgəsindəki arteriyalarda olan anormal strukturlar qan axınını azaldaraq ağrı və narahatlıq yarada bilər. Həkim həmin problemli arteriya hissələrini çıxarır ki, qan axını yaxşılaşsın. Bunun nəticəsində, ağrı azalır və ayağın ümumi sağlamlığı qorunur. Beləliklə, ayaqda olan şişmə və qasıq nahiyəsindəki ağrı kimi simptomları olan xəstələr üçün bu cərrahi əməliyyat onları rahatlatmaq və qan dövranını bərpa etmək üçün həyata keçirilə bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.1120
+
+**Kod**: 79.98
+
+**Ad**: Sümük zədələnməsinin müəyyən edilməmiş əməliyyatı, pəncə ayaq barmağı
+
+**Uyğunluq**: 70.38%
+
+**Əsaslandırma**: Bu prosedur, ayaq və onun barmaqlarında sümük zədələnmələrini, məsələn, sınıqlar və ya çıxıqların müalicəsi üçün seçilmişdir. "Ayaqda şişmə və qasıq nahiyəsində ağrı" ilə bağlı olan simptomlar, bu bölgədəki sümüklər üzərində əməliyyat ehtiyacını göstərə bilər. Bu cür zədələnmələr bəzən şişmə və ağrıya səbəb olur ki, bu da cərrahi müdaxiləni tələb edə bilər. Sorğu zamanı axtarılan əsas anlayışlar, xətənin qeyd etdiyi simptomlarla uyğunlaşır və bu sümük əməliyyatının potensial olaraq həmin simptomları aradan qaldırmaq məqsədilə icra edilə biləcəyini düşünməyə əsas verir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.497
+
+**Kod**: 38.18
+
+**Ad**: Endarterektomiya, aşağı ətraf arteriyaları
+
+**Uyğunluq**: 70.36%
+
+**Əsaslandırma**: Endarterektomiya əməliyyatı, ayaqdakı şişmə və qasıq nahiyəsindəki ağrı kimi simptomlara səbəb ola bilən qan damarlarının tıxanıqlığını aradan qaldırmaq üçün seçilib. Bu əməliyyat, ayaq və baldır bölgəsində arteriyalarda toplanan aterosklerotik piləkləri təmizləyir. Nəticədə, ayağın qan dövranı yaxşılaşır, bu da ağrı və yaraların sağalmaması kimi problemləri azaldır. Bu cür simptomların səbəbi damarların tıxanıqlığı olduğundan, endarterektomiya bu məsələnin həllinə yönəlmiş bir cərrahi prosedurdur.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.1269
+
+**Kod**: 83.85
+
+**Ad**: Aşağı ətraflarda əzələ və ya vətər uzunluğunda edilən digər dəyişikliklər (Hamstrinq uzadılması. Daban vətərinin qısaldılması. Plastik azillotenotomiya. Vətərin plikasiyası)
+
+**Uyğunluq**: 68.82%
+
+**Əsaslandırma**: Bu tibbi prosedur, ayaq və baldır əzələlərinin və vətərlərinin uzunluğunu dəyişdirərək əzələ-vətər funksiyasını yaxşılaşdırmaq məqsədilə aparılır. Verilən axtarış sorğusu isə ayaqda olan şişmə və qasıq nahiyəsindəki ağrı ilə əlaqəli cərrahi prosedurları araşdırmağa yönəlir. Belə prosedurlar, ayaq və qasıq nahiyəsindəki problemləri həll etmək üçün damar cərrahiyyəsi kimi digər müalicələrə də aid ola bilər. Bu prosedurun seçilməsi, əzələ və vətərlərin vəziyyətini düzəldərək, simptonların yüngülləşdirilməsinə kömək edə bilər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.516
+
+**Kod**: 38.49
+
+**Ad**: Damarın dəyişdirilməsi ilə birlikdə rezeksiyası, aşağı ətraf venaları
+
+**Uyğunluq**: 68.33%
+
+**Əsaslandırma**: Bu cərrahi prosedur, ayaqda şişmə və qasıq nahiyəsində ağrı kimi simptomlarla üzləşən xəstələrdə damar problemlərini həll etmək üçün seçilir. Burada damarlar ciddi zədələnməyə məruz qaldığı üçün qan axını düzgün baş vermir və bu da ayaqlarda şişkinlik və ağrı yaradır. Əməliyyat zamanı zədələnmiş damar hissəsi çıxarılır və süni damarla və ya bədənin başqa bir yerindən alınmış sağlam damar parçası ilə əvəz edilir. Bu, qanın ürəyə düzgün axmasını təmin edərək ayaqlardakı şişkinliyi və ağrını azaltmağa kömək edir. Bu cür əməliyyat, damarlarda problem yaşayan xəstələrdə təkrarlanan simptomları və qan dövranı çatışmazlığını müalicə etmək üçün uyğundur.
+
+----------------------------------------------------------------
