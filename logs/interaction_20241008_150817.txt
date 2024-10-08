@@ -1,0 +1,172 @@
+User Input:
+Baş ağrısı, zəiflik və yorğunluq hissi
+Quru öskürək və nəfəs darlığı
+Bədən temperaturunun artması (qızdırma)
+Qulaqda ağrı və qulaqda zəng səsi
+Boğazda ağrı və udqunma çətinliyi
+Dəri səpgiləri və qaşınma
+Ürək döyüntüsünün tezləşməsi və sinə ağrısı
+Bulantı və qusma
+Qarın ağrısı və ishal
+Görmə problemləri və başgicəllənmə
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Ümumi müayinə və diaqnostika prosedurları, baş-boyun nahiyəsi, tənəffüs sistemi, ürək-damar sistemi, mədə-bağırsaq sistemi, dəri və qulaq müayinələri
+
+Əsas anlayışlar və açar sözlər:
+1. Baş ağrısı
+2. Zəiflik və yorğunluq
+3. Öskürək və nəfəs darlığı
+4. Qızdırma
+5. Qulaq ağrısı
+6. Boğaz ağrısı
+7. Dəri səpgiləri
+8. Ürək döyüntüsünün tezləşməsi
+9. Sinə ağrısı
+10. Bulantı və qusma
+11. Qarın ağrısı
+12. Görmə problemləri
+13. Başgicəllənmə
+
+Bu simptomlar müxtəlif sistemləri əhatə etdiyindən, ümumi müayinə və bir neçə sistem üzrə diaqnostik prosedurlar tələb oluna bilər. Xüsusi cərrahi prosedurlar üçün daha dəqiq diaqnoz lazım olacaq, lakin ilkin müayinələr və diaqnostika prosedurları bu simptomların səbəbini müəyyən etməyə kömək edə bilər.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.989
+
+**Kod**: 76.19
+
+**Ad**: Üz sümükləri və oynaqlarında aparılan digər diaqnostik prosedurlar
+
+**Uyğunluq**: 54.30%
+
+**Əsaslandırma**: Bu prosedur, üz sümükləri və oynaqlarında olan problemlərin dəqiq diaqnostikası üçün seçilmişdir. Əsas səbəb, baş-boyun nahiyəsindəki simptomların (məsələn, baş ağrısı, qulaq ağrısı, boğaz ağrısı) üz sümükləri və oynaqlarında olan vəziyyətlə bağlı ola biləcəyidir. Müxtəlif görüntüləmə və ya invaziv texnikalarla, bədəndəki hər hansı struktur zəifliklərini, iltihablanmaları və ya digər problemləri müəyyən edə bilər, bu da həkimlərə konkret problemləri aşkarlayaraq doğru müalicə proqramını təyin etməyə kömək edər. Yəni, üz sümükləri və oynaqlarını daha ətraflı müayinə etməklə, bəzi simptomların əsas səbəbini tapmaq və müalicə etmək daha asan olur.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.370
+
+**Kod**: 34.02
+
+**Ad**: Müayinə məqsədilə (diaqnostik) torakotomiya
+
+**Uyğunluq**: 52.59%
+
+**Əsaslandırma**: Bu "müayinə məqsədilə torakotomiya" adlı prosedur, döş qəfəsini açaraq ağciyərlər, ürək və digər daxili orqanları birbaşa müayinə etmək üçündür. Bu prosedur, şiddətli simptomlar və ya mürəkkəb hallarda diaqnoz qoymaq və müalicə planını daha dəqiq hazırlamaq üçün seçilə bilər. Əgər xroniki və ya kritik sinə ağrısı, öskürək, nəfəs darlığı kimi simptomlar varsa və digər müayinə üsulları ilə tam dəqiqləşdirilməmiş problemin müəyyən edilməsi lazımdırsa, bu cür invaziv (bədənə nüfuz edən) diaqnostik üsul istifadə olunur. Qısa desək, həkimlər problemləri görmək və başa düşmək üçün birbaşa baxışı əldə etmək istəyirlər.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.58
+
+**Kod**: 3.79
+
+**Ad**: Nazik bağırsağın qapalı (endoskopik) biopsiyası
+
+**Uyğunluq**: 48.46%
+
+**Əsaslandırma**: Nazik bağırsağın qapalı (endoskopik) biopsiyası proseduru, bağırsaqda problem olduğuna dair şübhə yarandıqda seçilir. Bu prosedur, xərçəng kimi ağır xəstəlikləri və digər bağırsaq problemlərini dəqiq bir şəkildə müəyyən etmək üçün aparılır. Endoskopla içəridən toxuma nümunəsi götürmək, az invazivdir, yəni bədənin açılmasına ehtiyac yoxdur və bu da xəstə üçün daha rahat və təhlükəsizdir. Bu cür dəqiq analizlər müxtəlif növ qarın ağrıları və digər mədə-bağırsaq simptomlarının səbəblərini aydınlaşdırmağa kömək edir. Yəni, həkimlər xəstənin şikayətlərinin dəqiq səbəbini tapmaq üçün bu proseduru seçirlər.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.828
+
+**Kod**: 56.33
+
+**Ad**: Sidik axarının qapalı endoskopik biopsiyası
+
+**Uyğunluq**: 47.80%
+
+**Əsaslandırma**: Sidik axarının qapalı endoskopik biopsiyası niyə seçilə bilər? Çünki bu prosedur, sidik axarındakı bəzi problemləri daha dəqiq diaqnoz etmək üçün kiçik bir toxuma nümunəsinin alınmasına imkan verir. Həkimlər bu üsulu istifadə edərək, sidik axarında potensial olaraq problem yaradan dəyişiklikləri və ya xəstəlikləri müəyyənləşdirə bilərlər. Çünki axtarış sorğusuna baxdığımızda baş, boyun və mədə-bağırsaq sistemi kimi müxtəlif bölgələrdə simptomlar göstərilir, lakin bunlar daha geniş bir müayinə və diaqnostika tələb edir. Sidik axarı ilə bağlı dəqiq problemləri tapmaq üçün isə bu xüsusi endoskopik biopsiya lazımdır.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.3
+
+**Kod**: 0.42
+
+**Ad**: Qida borusunun açıq biopsiyası
+
+**Uyğunluq**: 47.78%
+
+**Əsaslandırma**: Qida borusunun açıq biopsiyası proseduru seçildikdə, bu adətən qida borusunda şübhəli olan dəyişiklikləri araşdırmaq üçün edilir. Əsas səbəb, toxuma nümunəsi götürərək, xərçəng və ya digər ciddi xəstəliklərin olub-olmadığını yoxlamaqdır. Bu cərrahi prosedur, xüsusilə qida borusundakı problemli sahələri daha dəqiq diaqnostika etmək üçün vacibdir, çünki alınan nümunələr laboratoriyada analiz edilir və bunun əsasında həkimlər daha doğru bir diaqnoz qoya bilirlər. Qida borusunun biopsiyası adətən öskürək, boğaz ağrısı və ya qida keçərkən narahatlıq kimi simptomlar müşahidə ediləndə təyin oluna bilər. Bu cür simptomlar qeyd olunan müxtəlif diaqnostik prosedurlardan biri kimi istifadə olunaraq diaqnoz qoyulmasına kömək edir.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.562
+
+**Kod**: 39.89
+
+**Ad**: Karotid cisim, karotid sinus və digər vaskulyar sahələrdə aparılan digər əməliyyatlar
+
+**Uyğunluq**: 70.22%
+
+**Əsaslandırma**: Karotid cisim və sinusunda aparılan əməliyyatlar boyun və baş nahiyəsindəki xüsusi damar strukturlarına yönəldilir. Bu əməliyyatlar əsasən qan təzyiqini və ürək ritmini tənzimləmək üçün istifadə olunur. Prosedur seçilməsi, xəstənin qan təzyiqi və ürək ritmi ilə bağlı xüsusi problemlərinin olması ilə əlaqədardır. Həmçinin, başgicəllənmə kimi simptomlar ortaya çıxa bilər ki, bu da karotid damarlarının anomaliyaları ilə bağlı ola bilər. Ümumi müayinə və diaqnostika prosedurları bu simptomların səbəbini dəqiqləşdirmək üçün istifadə olunsa da, karotid sahəsinə yönəlmiş cərrahi müdaxilələr konkret damar problemlərinin həlli üçün lazım ola bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.548
+
+**Kod**: 39.29
+
+**Ad**: Digər (periferik) vaskulyar şunt və ya "bypass"
+
+**Uyğunluq**: 70.07%
+
+**Əsaslandırma**: "Periferik vaskulyar şunt və ya 'bypass' əməliyyatı" bədənin müxtəlif hissələrində qan axınını yaxşılaşdırmaq üçün seçilir. Bu əməliyyatlar adətən damarlarda tıxanma və ya daralma olduğu hallarda tətbiq olunur ki, bu da orqanların və toxumaların kifayət qədər qanla təmin olunmasına mane ola bilər. Şunt və ya 'bypass' əməliyyatı vasitəsilə süni damarlar yaradılır və qan tıxanmış bölgədən yan keçərək daha rahat axa bilir. Bu prosedur, baş ağrısı, sinə ağrısı, ürək döyüntüsünün tezləşməsi kimi simptomlarla əlaqəli ola bilən ürək-damar sistemi problemlərinin həllinə kömək edə bilər. Şuntlama əməlliyyatı fərqli hallarda tələb edilə bilər və xəstənin konkret vəziyyətindən asılıdır.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.989
+
+**Kod**: 76.19
+
+**Ad**: Üz sümükləri və oynaqlarında aparılan digər diaqnostik prosedurlar
+
+**Uyğunluq**: 68.48%
+
+**Əsaslandırma**: Bu prosedura üz sümükləri və oynaqlarında aparılan diaqnostik prosedurları əhatə edir və tibb müayinələri zamanı xüsusi problemləri müəyyən etmək məqsədilə seçilib. Təqdim edilən axtarış sorğusu müxtəlif simptomları əhatə edir, məsələn, baş ağrısı, görmə problemləri və başgicəllənmə. Bu simptomlar baş-boyun nahiyəsi və üz oynaqlarında problemlərlə əlaqəli ola bilər. Bu səbəbdən, üz sümükləri və oynaqlarında aparılan diaqnostik prosedurlar simptomların əsas səbəbini müəyyən etməyə kömək edəcəkdir. Müxtəlif görüntüləmə və invaziv texnikalar istifadə edilərək daha dəqiq diaqnoz qoymaq üçün zəruri ilkin bilgilər toplanır.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.370
+
+**Kod**: 34.02
+
+**Ad**: Müayinə məqsədilə (diaqnostik) torakotomiya
+
+**Uyğunluq**: 67.17%
+
+**Əsaslandırma**: Müayinə məqsədilə (diaqnostik) torakotomiya proseduru, döş qəfəsini açaraq içəridə yerləşən orqanları—xüsusilə ağciyərlər və ürəyi—aşağıdan daha diqqətli şəkildə yoxlamaq üçün həyata keçirilir. Bu prosedurun seçilməsinin səbəbi isə sadalanan simptomların (məsələn, öskürək, nəfəs darlığı, sinə ağrısı və ya qızdırma) ciddi ağciyər və ya ürək-damar problemlərinə işarət edə biləcəyidir. Torakotomiya, bu problemlərin diaqnoz və ya müalicə planını düzgün formalaşdırmaq üçün lazımi məlumatı təmin etməyə kömək edir. Beləliklə, daha dəqiq müayinə və diaqnostikaya imkan verir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.439
+
+**Kod**: 35.98
+
+**Ad**: Ürək çəpərində aparılan digər əməliyyatlar
+
+**Uyğunluq**: 66.11%
+
+**Əsaslandırma**: Bu ürək çəpərində aparılan əməliyyatlar, adətən, ürəyin iki hissəsi arasındakı divarda - çəpərdə - olan problemləri həll etmək üçün həyata keçirilir. Əgər çəpərdə bir dəlik və ya anormal keçid varsa, bu, qan axınını düzgün şəkildə pozabilir və ürək-damar sistemi ilə bağlı simptomlara səbəb ola bilər. Misal üçün, nəfəs darlığı, ürək döyüntüsünün tezləşməsi və ya sinə ağrısı kimi problemlər yarana bilər. Belə hallarda diaqnostika prosedurları vasitəsilə dəqiq diaqnoz qoyulduqdan sonra, çəpərdəki defekti düzəltmək və ürək strukturlarını yaxşılaşdırmaq üçün bu cərrahi əməliyyat seçilə bilər. Bu prosedur xəstənin ümumi vəziyyətini və simptomlarını yüngülləşdirməyə kömək edə bilər.
+
+----------------------------------------------------------------
