@@ -1,0 +1,158 @@
+User Input:
+göbəyin altında şiddətli qarın ağrısı, qızdırma var.
+
+LLM Generated Search Query:
+Açar sözlər və əsas anlayışlar:
+
+1. Göbəyin altında ağrı
+2. Şiddətli qarın ağrısı
+3. Qızdırma
+
+Təklif olunan axtarış sorğusu:
+
+"Aşağı qarın nahiyəsində kəskin ağrı və qızdırma ilə əlaqəli cərrahi prosedurlar"
+
+Bu sorğu, xəstənin təsvir etdiyi simptomlarla əlaqəli ola biləcək cərrahi prosedurların tibbi xidmət kodlarını və təsvirlərini tapmağa kömək edə bilər. Qeyd edək ki, dəqiq diaqnoz qoymaq üçün həkim müayinəsi vacibdir və bu sorğu yalnız potensial əlaqəli prosedurları tapmaq üçün istifadə oluna bilər.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.956
+
+**Kod**: 69.3
+
+**Ad**: Uşaqlığın paraservikal denervasiyası (Laparoskopik uterosakral denervasiya)
+
+**Uyğunluq**: 60.42%
+
+**Əsaslandırma**: Bu prosedur, "Uşaqlığın paraservikal denervasiyası" adlı bir əməliyyatdır və uşaqlıq ətrafındakı sinirlərin laparoskopik üsulla cərrahi yolla kəsilməsidir. Əsas məqsədi xroniki çanaq ağrısını azaltmaqdır. Həmçinin, göbəyin altında ağrı, şiddətli qarın ağrı və qızdırma kimi simptomlarla əlaqəli ola bilən cərrahi müdaxilələr arasında dəyərləndirilə bilər. Bu, xəstələrin müəyyən simptomları yüngülləşdirmək üçün seçilə biləcək bir prosedurdur. Lakin, dəqiq diaqnoz və müalicə üçün həkim müayinəsi və konsultasiyası vacibdir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.741
+
+**Kod**: 52.12
+
+**Ad**: Mədəaltı vəzinin açıq biopsiyası
+
+**Uyğunluq**: 58.58%
+
+**Əsaslandırma**: Mədəaltı vəzinin açıq biopsiyası proseduru, mədəaltı vəzidən toxuma nümunəsi götürmək məqsədilə həyata keçirilir. Bu, əsasən mədəaltı vəzin xəstəliklərinin dəqiq diaqnozunu qoymaq üçün edilir. Əgər daha az invaziv üsullarla (yəni, bədənə daha az müdaxilə edən üsullarla) diaqnoz qoymaq alınmırsa, bu prosedur seçilir. Sorğuya uyğun olaraq, əgər xəstədə qarın nahiyəsində kəskin ağrı və qızdırma varsa və bu simptomlarla əlaqədar diaqnoza ehtiyac varsa, bu cür invaziv prosedurların seçilməsi ehtimalı artar. Lakin dəqiq diaqnoz üçün həkim müayinəsi vacibdir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.332
+
+**Kod**: 30.01
+
+**Ad**: Yumurtalığın laparoskopik biopsiyası
+
+**Uyğunluq**: 57.28%
+
+**Əsaslandırma**: Yumurtalığın laparoskopik biopsiyası, yumurtalıqdan toxuma nümunəsi götürülməsi üsuludur. Bu prosedur əsasən diaqnostik məqsədlər üçün seçilir ki, yəni həkimlər xəstənin simptomlarının səbəbini daha dəqiq anlamaq üçün bu üsulu istifadə edirlər. Burada xəstənin göbəyin altında ağrı, şiddətli qarın ağrısı və qızdırma kimi bəzi ciddi simptomları var. Bu cür simptomlar yumurtalıqlarda bir problemə işarə edə bilər. Laparoskopik biopsiya minimal invaziv cərrahiyyə üsulu olduğundan, yəni bədəndə çox böyük və yara izi buraxmayan bir kəsik vasitəsilə həyata keçirildiyindən, ağrı və qızdırmanın səbəbi haqqında daha ətraflı məlumat əldə etmək üçün uyğun bir üsul ola bilər. Lakin dəqiq diaqnoz üçün həkim müayinəsi əsastır.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.878
+
+**Kod**: 60.14
+
+**Ad**: Toxum kisəciklərin açıq biopsiyası
+
+**Uyğunluq**: 57.05%
+
+**Əsaslandırma**: Toxum kisəciklərin açıq biopsiyası proseduru, toxum kisəciklərindən toxuma nümunəsini çıxarmaq üçün həyata keçirilən bir əməliyyatdır. Bu əməlyat əsasən diaqnostik məqsədlərə xidmət edir, yəni orqanizmdə olan problemləri müəyyən etmək və dəqiqləşdirmək üçün istifadə olunur. Məsələn, göbəyin altında ağrı, şiddətli qarın ağrısı və qızdırma kimi simptomlar müşahidə olunursa, bu prosedur həmin əlamətlərin səbəbini öyrənmək üçün tətbiq oluna bilər. Bu cür simptomlar toxum kisəcikləri ilə əlaqəli ola bilər və biopsiya əməliyyatı həmin ərazidə hansısa patoloji vəziyyətin olub-olmadığını müəyyən etməyə kömək edə bilər. Amma dəqiq səbəbi müəyyən etmək üçün həkim müayinəsi və digər tibbi testlər vacibdir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.604
+
+**Kod**: 44.11
+
+**Ad**: Transabdominal qastroskopiya (əməliyyatdaxili)
+
+**Uyğunluq**: 56.95%
+
+**Əsaslandırma**: Transabdominal qastroskopiya proseduru, mədənin daxilini müayinə etmək məqsədilə cərrahi əməliyyat zamanı aparılır. Bu prosedur mədə içində ola biləcək zədələnmələri dəqiq müəyyən etmək və potensial olaraq digər cərrahi prosedurların effektivliyini yoxlamaq üçün istifadə edilir. 
+
+Açar sözlərdə qeyd olunan "şiddətli qarın ağrısı" və "qızdırma" simptomları, mədə və ya qarın boşluğunda ciddi bir vəziyyətin olmasına işarə edə bilər. Belə hallarda, transabdominal qastroskopiya cərrahi olaraq mədə divarında zədələnmələri və ya səbəb olan problemi aşkar etməyə kömək edə bilər. Bu səbəbdən, bu prosedur dərin müayinə və dəqiq diaqnostika üçün seçilə bilər.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.782
+
+**Kod**: 54.19
+
+**Ad**: Digər laparotomiya növləri (Laparotomiya, İntraperitoneal abses və ya hematomanın drenajı)
+
+**Uyğunluq**: 69.01%
+
+**Əsaslandırma**: Bu tibbi prosedur niyə seçildi?
+
+Prosedur, qarın boşluğunda infeksiya və ya qanaxma kimi problemlərdən yaranan abses və hematomanın (qan toplanması) boşaldılması üçündür. Prosedurun əsas məqsədi xəstənin şikayət etdiyi, məsələn, göbəyin altında güclü ağrı və qızdırma kimi simptomları yüngülləşdirməkdir. Bu cür simptomlar infeksiyanın və ya qanaxmanın bir göstəricisi ola bilər, bu səbəbdən qarın açılaraq problemli bölgəyə çatmaq və oradakı mayeni və ya qanı boşaltmaq lazımdır. Bu prosedur, simptomları azaltmaq və xəstənin sağalma prosesinə dəstək olmaq üçün seçilən bir müalicə metodudur. Dəqiq diaqnoz qoymaq üçün, əlbəttə ki, həkim müayinəsi vacibdir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.636
+
+**Kod**: 45.62
+
+**Ad**: Nazik bağırsağın digər hissəvi rezeksiyası (Duodenektomiya. İleoektomiya. Yeyunektomiya)
+
+**Uyğunluq**: 68.88%
+
+**Əsaslandırma**: Nazik bağırsağın müəyyən bir hissəsinin çıxarılması əməliyyatı (duodenektomiya, ileoektomiya, yeyunektomiya), bəzi ciddi bağırsaq problemlərini müalicə etmək üçün seçilə bilər. Bu problemlər xərçəng, Crohn xəstəliyi və ya bağırsaq iltihabı kimi halları əhatə edir. Aşağı qarın nahiyəsində kəskin ağrı və qızdırma kimi simptomlar da bu problemlərin göstəricisi ola bilər və həkim bunların əməliyyatla müalicəsinin zəruri olduğunu qərar verə bilər. Belə əməliyyatla problemli bağırsaq hissəsi çıxarılır və qalan sağlam hissələr bir-birinə tikilir ki, həzm sistemi normal fəaliyyətini davam etdirsin.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.683
+
+**Kod**: 48.42
+
+**Ad**: Düz bağırsağın laparoskopik transanal rezeksiyası
+
+**Uyğunluq**: 68.87%
+
+**Əsaslandırma**: Düz bağırsağın laparoskopik transanal rezeksiyası, əgər bir şəxsdə düz bağırsağın bir hissəsinin problemləri varsa, bu hissəni çıxarmaq üçün seçilə bilər. Bu əməliyyat digər açıq üsullarla müqayisədə daha az ağrılı olur və xəstə daha tez sağalır. Xəstədə aşağı qarın nahiyəsində kəskin ağrılar və qızdırma varsa, bu simptomlar düz bağırsaq problemlərini göstərir və bu əməliyyat onların həllində istifadə edilə bilər. Bu prosedur həm qarın, həm də anus vasitəsilə minimal invaziv üsulla həyata keçirildiyi üçün, bədənə daha az zərər verir və sağalma müddətini qısaldır. Digər operational üsullar ilə müqayisədə daha az riskli sayılır.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.635
+
+**Kod**: 45.61
+
+**Ad**: Nazik bağırsağın çoxsaylı seqmentar rezeksiyası (Nazik bağırsağın çoxsaylı travmatik zədələnmələr səbəbindən seqmentar rezeksiya)
+
+**Uyğunluq**: 68.86%
+
+**Əsaslandırma**: Bu prosedur, yəni nazik bağırsağın çoxsaylı seqmentar rezeksiyası, adətən, nazik bağırsaqda çoxsaylı travmatik zədələnmələr olduğu zaman seçilir. Belə bir vəziyyətdə, bağırsağın zədələnmiş hissələri çıxarılır ki, sağlamlıq bərpa olunsun və həzm sistemi normal şəkildə işləsin. Verilən axtarış sorğusunda qeyd olunan simptomlar (aşağı qarın nahiyəsində kəskin ağrı və qızdırma) bağırsaq zədələnməsi ilə uyğun gələ bilər və buna görə də bu cür bir cərrahi müdaxilə tələb oluna bilər. Yenə də dəqiq diaqnozu yalnız həkim qoya bilər və qərar həmin müayinələr və analizlər əsasında qəbul olunur.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.641
+
+**Kod**: 45.76
+
+**Ad**: Açıq və digər növ siqmoidektomiya
+
+**Uyğunluq**: 68.33%
+
+**Əsaslandırma**: Bu halda "açıq və digər növ siqmoidektomiya" əməliyyatı, yoğun bağırsağın siqmoid hissəsindəki problemləri aradan qaldırmaq üçün seçilə bilər. Sorğuya əsasən, xəstə göbəyin altında və şiddətli qarın ağrısından, həmçinin qızdırmadan şikayət edir. Bu simptomlar siqmoid bağırsaqda müəyyən xəstəliklərin, məsələn, xərçəng və ya divertikulit kimi şərtlərin olmasına işarə edə bilər. Buna görə də, həkim bu problemləri aradan qaldırmaq, xəstənin ağrısını azaltmaq və ümumi sağlamlığını yaxşılaşdırmaq üçün bu əməliyyatı tövsiyə edə bilər. Həmişə olduğu kimi, dəqiq diaqnoz və uyğun müalicə üçün həkim məsləhəti vacibdir.
+
+----------------------------------------------------------------
