@@ -1,0 +1,157 @@
+User Input:
+Hamilədə göbəyin altında şiddətli qarın ağrısı, qızdırma var.
+
+LLM Generated Search Query:
+Təklif olunan axtarış sorğusu:
+
+Hamiləlikdə kəskin qarın ağrısı və qızdırma ilə əlaqəli cərrahi müdaxilələr
+
+Əsas anlayışlar və açar sözlər:
+1. Hamiləlik
+2. Göbəkaltı nahiyədə ağrı
+3. Şiddətli qarın ağrısı
+4. Qızdırma
+5. Cərrahi müdaxilə
+
+Bu simptomlar hamiləlikdə müxtəlif fəsadların əlaməti ola bilər və cərrahi müdaxilə tələb edə bilər. Lakin dəqiq diaqnoz qoymaq üçün həkim müayinəsi vacibdir. Tibbi xidmət kodları və təsvirləri axtararkən, hamiləlikdə kəskin qarın ağrısı və qızdırma ilə əlaqəli cərrahi prosedurları nəzərdən keçirmək lazımdır.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.956
+
+**Kod**: 69.3
+
+**Ad**: Uşaqlığın paraservikal denervasiyası (Laparoskopik uterosakral denervasiya)
+
+**Uyğunluq**: 50.30%
+
+**Əsaslandırma**: Uşaqlığın paraservikal denervasiyası proseduru, uşaqlıq ətrafındakı sinirləri laparoskopik üsulla kəsməklə xroniki çanaq ağrısını azaltmaq üçün həyata keçirilir. Bu, deməkdir ki, əgər bir qadın uzun müddət davam edən çanaq ağrısından əziyyət çəkirsə və digər müalicə üsulları fayda vermirsə, bu cərrahi müdaxilə ağrını azaltmağa kömək edə bilər. Ancaq hamiləlik dövründə rast gəlinən kəskin qarın ağrısı və qızdırmanın səbəbi başqa problemlərdən qaynaqlanır və bu cür ağır simptomlar baş verərkən, mütləq həkimə müraciət etmək və dəqiq diaqnoz qoymaq lazımdır. Bunun üçün xüsusi cərrahi prosedurlar da lazımlı ola bilər, lakin hər vəziyyət fərqli olduğu üçün həkim məsləhəti vacibdir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.982
+
+**Kod**: 74.4
+
+**Ad**: Digər dəqiqləşdirilmiş Keysəriyyə əməliyyatı (çoxdöllü hamiləlik)
+
+**Uyğunluq**: 49.83%
+
+**Əsaslandırma**: Çoxdöllü hamiləlikdə Keysəriyyə əməliyyatı seçilir, çünki bu hamiləlik növü, birdən çox körpənin ana bətnində olduğu zaman, təbii doğuşu çətinləşdirə bilər və risklərlə müşayiət oluna bilər. Bu əməliyyat, çoxlu körpələrin təhlükəsiz və sağ-salamat dünyaya gəlməsini təmin edir. Axtarış sorğusunda qeyd olunan kəskin qarın ağrısı və qızdırma şikayətləri, hamiləlikdə yaranan digər fəsadların işarəsi ola bilər və bu halda da cərrahi müdaxilələr tələb oluna bilər. Amma konkret Keysəriyyə əməliyyatı, çoxdöllü hamiləliyin özünəməxsus çətinlikləri üçün seçilir. Hamiləliyin gedişatını və lazım olan tibbi addımları dəqiq müəyyən etmək üçün həkim məsləhəti vacibdir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.203
+
+**Kod**: 13.41
+
+**Ad**: Diafraqmal yırtığının bərpası, torakal giriş, başqa cür müəyyən edilməyib (diafraqmal yırtığının torakoabdominal bərpası)
+
+**Uyğunluq**: 49.05%
+
+**Əsaslandırma**: Bu prosedur, yəni diafraqmal yırtığın torakoabdominal bərpası, diafraqmada yaranan yırtığın hər iki tərəfdən, yəni həm döş qəfəsindən, həm də qarın boşluğundan eyni vaxtda müdaxilə edərək bərpa edilməsidir. Hamiləlikdə kəskin qarın ağrısı və qızdırma kimi simptomlar yaranan zamanı, bu əlamətlər ciddi fəsadlardan xəbər verə bilər. Bu səbəbdən, müvafiq diaqnozu və müalicəni təmin etmək üçün belə cərrahi prosedurların araşdırılması vacibdir. Prosedurun seçilməsi ona görədir ki, diafraqmadakı yırtıq, bəzən ciddi ağrı və problemlərə səbəb ola bilər və onu effektiv şəkildə bərpa etmək lazımdır.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.938
+
+**Kod**: 68.29
+
+**Ad**: Uşaqlığın zədələnmə sahələrinin kəsilib çıxarılmasının və ya destruksiyasının digər növləri (Miomektomiya. Laparoskopik miomektomiya. Histeroskopiya ilə polip rezeksiyası. Histeroskopik miomektomiya)
+
+**Uyğunluq**: 48.62%
+
+**Əsaslandırma**: Bu prosedur, uşaqlıqda yaranmış zədələnmələrin, məsələn, miomaların və poliplərin çıxarılması üçün tətbiq olunur. Bu zədələnmələr hamiləlik zamanı və ya ümumi sağlamlıqla bağlı problemlərə səbəb ola bilər. Beləliklə, uşaqlıqda kəskin ağrı və digər simptomlar varsa, laparoskopik və ya histeroskopik yollarla bu problemlərin cərrahi yolla aradan qaldırılması zərurəti yaranır. Qarın ağrısı və qızdırma hamiləlikdə ciddi problemlərin əlaməti ola bilər və bu səbəbdən vaxtında müdaxilə önəmlidir. Həkimlər, bu vəziyyətlər üçün ən uyğun müalicə metodlarını müəyyən etmək üçün cərrahi prosedurları tövsiyə edirlər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.960
+
+**Kod**: 69.6
+
+**Ad**: Medikamentoz abort (Medikamentoz abort, küretaj daxil, doqquz həftədən sonra)
+
+**Uyğunluq**: 48.46%
+
+**Əsaslandırma**: Medikamentoz abort proseduru bəzi hamiləlik fəsadlarının yaranması zamanı seçilir, məsələn, ağır qarın ağrısı və qızdırmanın olduğu hallarda, əgər bu simptomlar daha ciddi problemlərə işarə edirsə. Bu prosedur, dərman vasitəsilə hamiləliyin süni şəkildə sonlandırılmasıdır və bəzən küretaj adı verilən əlavə müdaxilə tələb oluna bilər. 9 həftədən sonrakı hamiləliklərdə belə problemlər yaşandıqda, tibbi müdaxiləyə ehtiyac ola bilər ki, bu da medikamentoz abortun seçim səbəblərindən biri ola bilər. Belə halda, mütləq həkim müayinəsi ilə dəqiq bir diaqnoz və müvafiq müalicə kursu müəyyən edilməlidir.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.782
+
+**Kod**: 54.19
+
+**Ad**: Digər laparotomiya növləri (Laparotomiya, İntraperitoneal abses və ya hematomanın drenajı)
+
+**Uyğunluq**: 68.69%
+
+**Əsaslandırma**: Bu prosedur, yəni laparotomiya, qarın boşluğunda yaranan abses (infeksiyalı maye toplanması) və ya hematomanın (qan toplanması) boşaldılması üçün seçilir. Hamiləlikdə kəskin qarın ağrısı və qızdırma kimi simptomlar, infeksiya və ya qanaxmanın əlaməti ola bilər. Bu vəziyyətlərdə, bəzən maye və ya qanı çıxarmaq üçün cərrahi müdaxilə tələb oluna bilər. Prosedur zamanı həkim qarında bir kəsik açır və problemli nahiyəyə çataraq mayeni və ya qanı boşaldır. Bu cür cərrahi müdaxilə, problemli vəziyyətin qarşısını almaq və ananın və körpənin sağlamlığını qorumaq üçün vacib ola bilər. Dəqiq diaqnoz və müalicə isə həmişə həkim müayinəsi ilə aparılmalıdır.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.683
+
+**Kod**: 48.42
+
+**Ad**: Düz bağırsağın laparoskopik transanal rezeksiyası
+
+**Uyğunluq**: 67.71%
+
+**Əsaslandırma**: Düz bağırsağın laparoskopik transanal rezeksiyası proseduru, düz bağırsağın bir hissəsini minimal invaziv şəkildə çıxarmaq məqsədilə seçilmiş ola bilər. Bu prosedurun seçilmə səbəbi onun ənənəvi açıq cərrahiyyəyə nisbətən daha az ağrılı olması və xəstənin daha tez sağalmasına imkan verməsidir. Laparoskopik və transanal üsulların birləşməsi ilə həm qarın boşluğunda, həm də anus yolu ilə xüsusi alətlər istifadə olunur ki, bu da əməliyyatın səmərəliliyini artırır və bərpa müddətini qısaldır. Bu cür minimal invaziv prosedurlar adətən daha az risklə əlaqələndirilir və xəstələr üçün daha rahatdır.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.635
+
+**Kod**: 45.61
+
+**Ad**: Nazik bağırsağın çoxsaylı seqmentar rezeksiyası (Nazik bağırsağın çoxsaylı travmatik zədələnmələr səbəbindən seqmentar rezeksiya)
+
+**Uyğunluq**: 67.47%
+
+**Əsaslandırma**: Nazik bağırsağın çoxsaylı seqmentar rezeksiyası əməliyyatı, bağırsağın bir neçə hissəsində ciddi travmatik zədələnmələr olduqda həyata keçirilir. Bu növ zədələnmələr həzm sisteminin fəaliyyətinə mane olduğunu və təhlükəli vəziyyətlər yaratdığını nəzərə alaraq, zədələnmiş hissələrin çıxarılması və sağlam hissələrin birləşdirilməsi çox vacibdir. Belə bir əməliyyat, bağırsaq funksiyasını bərpa etmək və xəstənin ümumi sağlamlığını qorumaq məqsədilə həyata keçirilir. Bu əməliyyatda əsas səbəb zədələnmələrin ciddi və çoxsaylı olmasıdır ki, bu da mədə-bağırsaq sistemi problemlərini aradan qaldırmaq üçün zəruridir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.793
+
+**Kod**: 54.71
+
+**Ad**: Qastrosxizisin təmiri
+
+**Uyğunluq**: 67.43%
+
+**Əsaslandırma**: Qastrosxizisin təmiri əməliyyatı, yeni doğulmuş körpələrdə qarın divarının anadangəlmə defekti üçün aparılır. Bu qüsur zamanı körpənin bağırsaqları qarının xaricində olur, yəni onların düzgün yerində olmadığı bir vəziyyətdir. Bu əməliyyat bağırsaqları yerinə qaytarır və qarın divarını bağlayır. Bu, körpənin sağ qalması üçün vacib və həyati əhəmiyyət daşıyır.
+
+Verilişdə olan axtarış sorğusu isə hamiləlikdə kəskin qarın ağrısı və qızdırma ilə əlaqəli cərrahi müdaxilələri axtarır. Bu fərqli bir mövzudur və hamiləlikdə baş verə biləcək digər tibbi problemlərə diqqət edir, məsələn, apandisit və digər qarın problemləri. Göbəkaltı ağrılar və yüksək qızdırma kimi simptomlar hamiləlikdə ayrı-ayrılıqda cərrahi müdaxiləyə ehtiyac yarada bilər. Buna görə, hər iki mövzu tibbi və cərrahi sahələrdə fərqli halların diaqnozu və müalicəsi üçün önəmlidir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.785
+
+**Kod**: 54.3
+
+**Ad**: Qarın boşluğu və ya göbəyin zədələnmə və ya toxumasının kəsiklə çıxarılması və ya destruksiyası (Qarın divarının və ya göbəyin zədələnməsinin və ya destruksiyasının kəsiklə çıxarılması. Qarın divarının cərrahi təmizlənməsi. Debridman, Omfalektomiya)
+
+**Uyğunluq**: 67.40%
+
+**Əsaslandırma**: Bu prosedur qarın divarında və ya göbəkdə olan kəsiklər, infeksiyalar və ya anormal toxumalarla bağlı problemləri aradan qaldırmaq üçün seçilir. Əməliyyatın məqsədi problemli toxumanı kəsib çıxarmaq və bölgəni təmizləməkdir. Hamiləlik zamanı kəskin qarın ağrısı və qızdırma kimi simptomlar fərqli fəsadlarla əlaqəli ola bilər və bəzi hallarda cərrahi müdaxilə tələb oluna bilər. Bu prosedur infeksiyalar, yaralar və ya şişlər kimi problemləri müalicə etməyə kömək edə bilər ki, bu da hamiləlik zamanı narahatlıqları aradan qaldıra bilər. Dəqiq diaqnozu müəyyən etmək üçün isə mütləq həkimin müayinəsi lazımdır.
+
+----------------------------------------------------------------
