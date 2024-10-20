@@ -1,0 +1,154 @@
+User Input:
+Hamiləyəm, göbəyin altında şiddətli qarın ağrısı, qızdırma var.
+
+LLM Generated Search Query:
+Açar sözlər və əsas anlayışlar:
+- Hamiləlik
+- Göbəyin altında qarın ağrısı
+- Şiddətli ağrı
+- Qızdırma
+
+Təklif olunan axtarış sorğusu:
+
+"Hamiləlikdə kəskin qarın ağrısı və qızdırma cərrahi müdaxilə"
+
+Bu sorğu hamiləlik zamanı baş verən kəskin qarın ağrısı və qızdırma ilə əlaqəli ola biləcək cərrahi prosedurları tapmağa kömək edə bilər. Lakin qeyd edək ki, bu vəziyyət təcili tibbi yardım tələb edə bilər və dərhal həkimə müraciət etmək lazımdır.
+
+LLM Generated Output:
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.982
+
+**Kod**: 74.4
+
+**Ad**: Digər dəqiqləşdirilmiş Keysəriyyə əməliyyatı (çoxdöllü hamiləlik)
+
+**Uyğunluq**: 54.53%
+
+**Əsaslandırma**: Burada danışılan "Digər dəqiqləşdirilmiş Keysəriyyə əməliyyatı (çoxdöllü hamiləlik)" proseduru çoxdöllü hamiləlik zamanı edilir. Çoxdöllü hamiləlik, məsələn, əkizlər və ya daha çox uşaq anlamına gəlir. Bu hamiləliklərdə bəzi risklər və komplikasiyalar artdığı üçün, doğuşun daha təhlükəsiz olması üçün keysəriyyə əməliyyatı seçilə bilər. Axtarış sorğusu isə hamiləlikdə yaşanan kəskin qarın ağrısı və qızdırmanın ciddi problemlərin işarəsi ola biləcəyini vurğulayır ki, bu da bəzi hallarda cərrahi müdaxilə tələb edə bilər. Amma belə hallar təcili tibbi müdaxilə tələb etdiyi üçün dərhal həkimə müraciət etmək vacibdir. Bu kontekstdə əməliyyat, uşaqların və ananın sağlamlığını qorumaq məqsədilə seçilmiş ola bilər.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.960
+
+**Kod**: 69.6
+
+**Ad**: Medikamentoz abort (Medikamentoz abort, küretaj daxil, doqquz həftədən sonra)
+
+**Uyğunluq**: 54.04%
+
+**Əsaslandırma**: Medikamentoz abort proseduru, hamiləliyin süni şəkildə, yəni dərman vasitəsilə sonlandırılması deməkdir. Bu prosedur, xüsusilə 9 həftədən sonrakı dövrdə olan hamiləliklər üçün nəzərdə tutulmuşdur. Medikamentoz abortun seçilməsinin səbəbi, hamiləliyin xaotik bir şəkildə davam edə bildiyi və ananın sağlamlığını təhlükəyə ata biləcəyi vəziyyətlərdə müdaxilə etməkdir. Belə hallarda qarın ağrısı və qızdırma kimi simptomlar yaranırsa, bu, hamiləlikdə ciddi bir problemin göstəricisi ola bilər və cərrahi müdaxilə tələb edə bilər. Ona görə də, dərmanlarla başlanan prosedur, lazım gəlsə, küretaj kimi əlavə müdaxilə ilə tamamlanır. Bu, ananın sağlamlığını qorumaq və hər hansı komplikasiyanı aradan qaldırmaq üçün vacibdir.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.203
+
+**Kod**: 13.41
+
+**Ad**: Diafraqmal yırtığının bərpası, torakal giriş, başqa cür müəyyən edilməyib (diafraqmal yırtığının torakoabdominal bərpası)
+
+**Uyğunluq**: 53.90%
+
+**Əsaslandırma**: Bu prosedur, diafraqmada olan yırtığı bərpa etmək üçün seçilib, çünki əməliyyat diafraqmanın təbii funksiyasını bərpa edir və ağrını azaltmağa kömək edir. Diafraqmal yırtıq, diafraqmanın zəif bir nöqtəsində meydana gəlir və orqanların döş qəfəsi ilə qarın boşluğu arasında yanlış yerə keçməsinə səbəb ola bilər. Bu əməliyyat həm döş qəfəsindən (yuxarıdan), həm də qarın boşluğundan (aşağıdan) müdaxilə edərək yırtığı düzəldir. Bu kombinə üsul yırtığın dəqiq bərpasını təmin edir. Verilmiş axtarış sorğusu bu əməliyyatla birbaşa əlaqəli deyil, lakin benzer qarın problemləri üçün cərrahi müdaxiləyə ehtiyac yaranarsa, başqa əməliyyatlar haqqında məlumat axtarılır. Qadın hamilə olduğuna görə, bu tip simptomlar ciddi qəbul edilməli və dərhal tibbi yardım alınmalıdır.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.956
+
+**Kod**: 69.3
+
+**Ad**: Uşaqlığın paraservikal denervasiyası (Laparoskopik uterosakral denervasiya)
+
+**Uyğunluq**: 53.37%
+
+**Əsaslandırma**: Uşaqlığın paraservikal denervasiyası, xroniki çanaq ağrısını azaltmaq üçün sinirlərin laparoskopik üsulla kəsilməsi prosedurudur. Bu üsul seçilir, çünki sinirlər ağrının ötürülməsində rol oynayır və onları kəsməklə ağrını azaltmaq mümkündür. Bu, daha çox hamiləliklə əlaqəsi olmayan xroniki ağrı hallarında istifadə olunur. Lakin, hamiləlikdə kəskin qarın ağrısı və qızdırma vəziyyətləri təcili müdaxilə tələb edə bilər və uşaqlığın paraservikal denervasiyası bu kimi hallar üçün uyğun prosedur deyildir; bu vəziyyətlərdə dərhal həkimə müraciət edilməlidir.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.979
+
+**Kod**: 73.59
+
+**Ad**: Doğuşa əllə yardım, digər (Doğuşa əllə yardım - Normal doğuş, çoxdöllü hamiləlik)
+
+**Uyğunluq**: 52.85%
+
+**Əsaslandırma**: Bu prosedurun seçilməsinin səbəbi çoxdöllü hamiləlik zamanı doğuş prosesində əlavə yardıma ehtiyacın olmasıdır. Çoxdöllü hamiləlik, yəni bir neçə körpənin eyni anda doğulması, bəzi hallarda tibbi personalın əllə yardımını tələb edə bilər ki, doğuşun normal və təhlükəsiz keçməsinə kömək edilsin. Açar sözlərdə verilən "hamiləlik", "qarın ağrısı", və "qızdırma" isə başqa tibbi vəziyyətlərlə əlaqəli ola bilər, buna görə də hamiləlik zamanı ortaya çıxan belə əlamətlər dərhal həkimə müraciət etməyi tələb edir. Doğuş zamanı əllə yardım, bu tip ciddi əlamətlərdən fərqlənir və əsasən çoxdöllü hamiləliklərdə doğuşun təhlükəsizliyini təmin etmək məqsədilə edilir.
+
+----------------------------------------------------------------
+
+**AXTARIŞ NƏTİCƏLƏRİ:**
+
+
+Nəticə 1:
+
+**Sifariş No.**: 2.6.793
+
+**Kod**: 54.71
+
+**Ad**: Qastrosxizisin təmiri
+
+**Uyğunluq**: 68.39%
+
+**Əsaslandırma**: Qastrosxizisin təmiri əməliyyatı, yeni doğulmuş körpələrdə qarın divarının anadangəlmə defekti olan qastrosxizis vəziyyətini müalicə etmək üçün seçilib. Bu vəziyyət, körpənin bağırsaqlarının qarın boşluğundan kənarda olması deməkdir. Əməliyyat, bu bağırsaqları yenidən qarın boşluğuna qaytarmaq və qarın divarını bağlamaq üçün həyata keçirilir. Bu, körpənin sağ qalması üçün həyati əhəmiyyət daşıyan bir prosedurdur. Başqa sözlə, qoyulan axtarış sorğusu hamiləlikdə baş verən kəskin qarın ağrısı və qızdırma ilə bağlıdır, lakin qastrosxizisin təmiri əməliyyatı doğuşdan sonra körpələr üçün nəzərdə tutulmuş xüsusi bir müalicədir.
+
+----------------------------------------------------------------
+Nəticə 2:
+
+**Sifariş No.**: 2.6.674
+
+**Kod**: 47
+
+**Ad**: Appendektomiya
+
+**Uyğunluq**: 68.27%
+
+**Əsaslandırma**: Bu əməliyyat, yəni appendektomiya, əsasən appendiksin iltihabı zamanı həyata keçirilir və bu vəziyyət appendisit adlanır. Hamiləlik müddətində göbəyin altında şiddətli qarın ağrısı və qızdırma kimi simptomlar appendisitlə əlaqəli ola bilər. Bu simptomlar təcili tibbi yardıma ehtiyac olduğunu göstərir və appendiksin çıxarılması üçün appendektomiya məsləhət görülür. Əgər vaxtında müalicə olunmazsa, vəziyyət daha da ağırlaşıb serius problemlərə yol aça bilər. Bu səbəbdən, ani qarın ağrısı və qızdırma vəziyyətində dərhal tibbi mütəxəssisə müraciət etmək lazımdır.
+
+----------------------------------------------------------------
+Nəticə 3:
+
+**Sifariş No.**: 2.6.782
+
+**Kod**: 54.19
+
+**Ad**: Digər laparotomiya növləri (Laparotomiya, İntraperitoneal abses və ya hematomanın drenajı)
+
+**Uyğunluq**: 67.11%
+
+**Əsaslandırma**: Bu tibbi prosedur qarın boşluğundakı problemlərin həll edilməsi üçün seçilə bilər. Xüsusi olaraq, qarın boşluğunda yaranan abses (yəni infeksiyanın yaratdığı irin dolu kütlə) və ya hematomanın (yəni qan toplamasının) boşaldılması üçün tətbiq edilir. Əgər hamiləlik zamanı qadında göbəyin altında kəskin qarın ağrısı və qızdırma kimi simptomlar müşahidə edilirsə, bu, infeksiya və ya daxili qanaxmanın göstəricisi ola bilər ki, bu da təcili tibbi müdaxilə tələb edə bilər. Bu vəziyyətdə həkim qarın nahiyəsini əməliyyatla açaraq problemi aradan qaldırmaq məqsədilə maye və ya qanı boşalda bilər. Beləliklə, bu prosedur həm infeksiya, həm də qanaxma kimi ciddi vəziyyətlərin sürətli və effektiv həllini təmin edir.
+
+----------------------------------------------------------------
+Nəticə 4:
+
+**Sifariş No.**: 2.6.785
+
+**Kod**: 54.3
+
+**Ad**: Qarın boşluğu və ya göbəyin zədələnmə və ya toxumasının kəsiklə çıxarılması və ya destruksiyası (Qarın divarının və ya göbəyin zədələnməsinin və ya destruksiyasının kəsiklə çıxarılması. Qarın divarının cərrahi təmizlənməsi. Debridman, Omfalektomiya)
+
+**Uyğunluq**: 66.94%
+
+**Əsaslandırma**: Bu əməliyyat qarın divarında və ya göbəkdə baş verə bilən anormal toxumalar, zədələnmələr və ya infeksiyaları müalicə etmək üçün aparılır. Əgər hamilə qadında qarın ağrısı və qızdırma kimi simptomlar varsa, bu infeksiya və ya başqa bir zədə nişanəsi ola bilər. Ona görə də, həkim bu problemi müəyyən edib müalicə etmək üçün problemli toxumanı kəsib çıxara və ya təmizləyə bilər. Şiddətli ağrı və qızdırma vəziyyəti ciddi ola bilər və dərhal tibbi yardım tələb edir, çünki hamiləlikdə bu simptomlar təhlükəli ola bilər. Bu cür cərrahi müdaxilə infeksiyaları aradan qaldırmaq və sağlamlıq vəziyyətini normallaşdırmaq üçün seçilər.
+
+----------------------------------------------------------------
+Nəticə 5:
+
+**Sifariş No.**: 2.6.675
+
+**Kod**: 47.01
+
+**Ad**: Laparoskopik appendektomiya
+
+**Uyğunluq**: 66.82%
+
+**Əsaslandırma**: Laparoskopik appendektomiya əməliyyatı minimal invaziv üsulla appendiksi çıxarmaq üçün həyata keçirilir. Bu üsul, ənənəvi açıq cərrahiyyədən fərqli olaraq, daha az ağrılıdır və daha tez sağalmanı təmin edir. Hamiləlikdə göbəyin altında şiddətli qarın ağrısı və qızdırma kimi simptomlar appendisitin əlamətləri ola bilər və bu vəziyyət dərhal tibbi müdaxilə tələb edə bilər. Laparoskopik appendektomiya, belə hallarda effektiv bir üsul olmaqla, hamiləlik zamanı həm xəstənin, həm də körpənin təhlükəsizliyini daha yaxşı qoruyur, çünki kiçik kəsiklər sayəsində daha az travma yaranır və sağalma müddəti daha qısa olur.
+
+----------------------------------------------------------------
